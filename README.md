@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/ShisheerKaushik24/Quantum_projects.svg?logo=CreativeCommons&style=flat-square)](https://github.com/ShisheerKaushik24/Wearable_Antenna/blob/master/LICENSE.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ShisheerKaushik24/Wearable_Antenna/graphs/commit-activity)
 
-# Werable_Antenna
+# Wearable Antenna for remote Health Monitoring
 
 <!-- Logo: -->
 <div align="center">
