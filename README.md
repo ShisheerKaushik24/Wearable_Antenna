@@ -57,7 +57,7 @@ Results demonstrate that the presented wearable antenna fabrication design is ve
 
 # License
 
-This work is licensed under a [MIT License](LICENSE) license.
+This work is licensed under a [MIT License](https://github.com/ShisheerKaushik24/Wearable_Antenna/blob/master/LICENSE.md) license.
 
 <hr>
 
