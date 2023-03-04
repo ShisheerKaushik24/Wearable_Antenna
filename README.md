@@ -6,7 +6,7 @@
 
 <!-- Logo: -->
 <div align="center">
-  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Quantum_projects/blob/master/asset/featured.png" height="300" width="550" /></a>
+  <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Wearable_Antenna/blob/master/asset/featured.png" height="300" width="550" /></a>
 </div>
 
 - **Organization**
@@ -30,20 +30,20 @@ The back view of the antenna
 
 ![q_stegalyzer](asset/r.jpg)
 
-A wearable microstrip patch antenna with operating frequencies of 2.3 GHz (FR4 as substrate) and 2.66 GHz (Denim material as substrate) is designed and tested. Prominent materials considered for substrate parts are Denim fabrics with the relative permittivity €r = 1.67, and the loss tangent tan δ = 0.085 and FR4 (lossy) with the dielectric constant €r = 4.3, and loss tangent tan δ = 0.025 material, while conventional copper metal sheets have been used as antenna conductive material. 
+A wearable microstrip patch antenna with operating frequencies of **2.3 GHz (FR4 as substrate) and 2.66 GHz (Denim material as substrate)** is designed and tested. Prominent materials considered for substrate parts are Denim fabrics with the relative permittivity **€r = 1.67**, and the loss tangent tan **δ = 0.085** and FR4 (lossy) with the dielectric constant **€r = 4.3**, and loss tangent tan **δ = 0.025** material, while conventional copper metal sheets have been used as antenna conductive material. 
 
 The antenna performance outcomes
 
 ![q_stegalyzer](asset/b.png)
 
-The antenna proposed is designed and simulated using CST simulator, fabricated using flexible copper sheet and tested. 
+The antenna proposed is designed and simulated using `CST studio simulator`, fabricated using flexible copper sheet and tested. 
 
 Results demonstrate that the designed antenna is very efficient,  highly sensitive and of low-cost with performance meeting the expectation of the application in need. Further, proposed wearable antenna may also be attached to human body directly 
 to sense suitable parameters.
 
 ### Conclusion
 
-The research work demonstrates design of antennas that are made of textile and solid substrate materials which are suitable for wearable applications like remote monitoring of elderly people integrated with sensors. This article presents the design and fabrication of a wearable, fully flexible and efficient microstrip patch antenna pasted on both jeans textile and FR4 (lossy) material to operate at f =2.66 GHz and f=2.3 GHz as a centre frequencies. 
+The research work demonstrates design of antennas that are made of textile and solid substrate materials which are suitable for wearable applications like remote monitoring of elderly people integrated with sensors. This article presents the design and fabrication of a wearable, fully flexible and efficient microstrip patch antenna pasted on both jeans textile and FR4 (lossy) material to operate at f = 2.66 GHz and f = 2.3 GHz as a centre frequencies. 
 
 ![q_stegalyzer](asset/e.png)
 
@@ -63,5 +63,5 @@ This work is licensed under a [MIT License](LICENSE) license.
 
 Created and maintained by [@Shisheer S Kaushik][1].
 
-[1]: https://github.com/ShisheerKauhik24
+[1]: https://linkedin.com/ShisheerKauhik24
 
