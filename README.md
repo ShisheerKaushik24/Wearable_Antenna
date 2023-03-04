@@ -63,5 +63,5 @@ This work is licensed under a [MIT License](LICENSE) license.
 
 Created and maintained by [@Shisheer S Kaushik][1].
 
-[1]: https://linkedin.com/ShisheerKauhik24
+[1]: https://github.com/ShisheerKauhik24
 
