@@ -1,0 +1,29 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 01:37 PM Tuesday, 26. July 2022
+
+  Evaluating 'Gain (IEEE),3D,Min. Value (Solid Angle)': 107 s
+  Evaluating 'SAR-loss (f=2.66) [1g]': 2 s
+  Evaluating 'loss (f=4.804) (1)': 1 s
+  Evaluating 'Total radiated power (TRP, full sphere) over frequency': 20 s
+  Evaluating 'Directivity,3D,Min. Value (Solid Angle)': 50 s
+  Evaluating 'Directivity,Theta=0.0,Phi=90.0': 69 s
+  Evaluating 'Realized Gain,Theta=180.0,Phi=0.0': 75 s
+  Evaluating 'Realized Gain,Theta=0.0,Phi=90.0': 73 s
+  Evaluating 'Front to back ratio': 0 s
+  Evaluating 'Mag(Z1,1)': 7 s
+  Evaluating 'SAR-loss (f=2.66) [10g]': 4 s
+
+  Total time: 414 s  ( = 0 h, 6 m, 54 s )
+
+Template based post-processing finished at: 01:44 PM Tuesday, 26. July 2022
+----------------------------------------------------------------------------------------

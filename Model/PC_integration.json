@@ -1,0 +1,84 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "gndx",
+         "type": "float",
+         "value": 62.2
+      },
+      {
+         "name": "gndy",
+         "type": "float",
+         "value": 31.2
+      },
+      {
+         "name": "h",
+         "type": "float",
+         "value": 0.15
+      },
+      {
+         "name": "logox",
+         "type": "float",
+         "value": 45.25
+      },
+      {
+         "name": "h1",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "subx",
+         "type": "float",
+         "value": 62.2
+      },
+      {
+         "name": "suby",
+         "type": "float",
+         "value": 31.2
+      },
+      {
+         "name": "logoy",
+         "type": "float",
+         "value": -5.0
+      },
+      {
+         "name": "Epsilon_r",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "Length",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "SubstrateHeight",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "TraceWidth",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "TraceThickness",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "GroundThickness",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "SubstrateWidth",
+         "type": "float",
+         "value": 12.0
+      }
+   ],
+   "outputVariables": []
+}

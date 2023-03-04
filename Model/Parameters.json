@@ -1,0 +1,80 @@
+{
+    "parameters": [
+        {
+            "expr": "62.2",
+            "name": "gndx",
+            "value": "62.2"
+        },
+        {
+            "expr": "31.2",
+            "name": "gndy",
+            "value": "31.2"
+        },
+        {
+            "expr": "0.15",
+            "name": "h",
+            "value": "0.15"
+        },
+        {
+            "expr": "45.25",
+            "name": "logox",
+            "value": "45.25"
+        },
+        {
+            "expr": "0.5",
+            "name": "h1",
+            "value": "0.5"
+        },
+        {
+            "expr": "62.2",
+            "name": "subx",
+            "value": "62.2"
+        },
+        {
+            "expr": "31.2",
+            "name": "suby",
+            "value": "31.2"
+        },
+        {
+            "expr": "-5",
+            "name": "logoy",
+            "value": "-5"
+        },
+        {
+            "expr": "1",
+            "name": "Epsilon_r",
+            "value": "1"
+        },
+        {
+            "expr": "1.0000e+00",
+            "name": "Length",
+            "value": "1.0000e+00"
+        },
+        {
+            "expr": "1",
+            "name": "SubstrateHeight",
+            "value": "1"
+        },
+        {
+            "expr": "2",
+            "name": "TraceWidth",
+            "value": "2"
+        },
+        {
+            "expr": "0",
+            "name": "TraceThickness",
+            "value": "0"
+        },
+        {
+            "expr": "0",
+            "name": "GroundThickness",
+            "value": "0"
+        },
+        {
+            "expr": "12",
+            "name": "SubstrateWidth",
+            "value": "12"
+        }
+    ],
+    "version": 1
+}

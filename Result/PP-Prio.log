@@ -1,0 +1,25 @@
+==================================================================================================================================================================================================================
+== CST Matrix Calculation Priority Log                                                                                                                                                                          ==
+==================================================================================================================================================================================================================
+ 
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Priority-group:   1, shape  11: </cst/Boundaries/> Low^X,   material: $NFSMaterial$,  user-priority: 0,  material-attributes: normal.vacuum,  shape-attributes: boundary,   
+Priority-group:   1, shape  12: </cst/Boundaries/> Low^Y,   material: $NFSMaterial$,  user-priority: 0,  material-attributes: normal.vacuum,  shape-attributes: boundary,   
+Priority-group:   1, shape  13: </cst/Boundaries/> Low^Z,   material: $NFSMaterial$,  user-priority: 0,  material-attributes: normal.vacuum,  shape-attributes: boundary,   
+Priority-group:   1, shape  14: </cst/Boundaries/> Up^X,    material: $NFSMaterial$,  user-priority: 0,  material-attributes: normal.vacuum,  shape-attributes: boundary,   
+Priority-group:   1, shape  15: </cst/Boundaries/> Up^Y,    material: $NFSMaterial$,  user-priority: 0,  material-attributes: normal.vacuum,  shape-attributes: boundary,   
+Priority-group:   1, shape  16: </cst/Boundaries/> Up^Z,    material: $NFSMaterial$,  user-priority: 0,  material-attributes: normal.vacuum,  shape-attributes: boundary,   
+Priority-group:   2, shape   1: Denim:Denim,    material: Denim,  user-priority: 0,  2D/3D-geometry: true, material-attributes: dispersive-eps.dispersive-mue.normal,   shape-attributes: solid,  
+Priority-group:   2, shape   3: component1:bone,    material: tumor,  user-priority: 0,  2D/3D-geometry: true, material-attributes: dispersive-eps.dispersive-mue.normal.rho,   shape-attributes: solid,  
+Priority-group:   2, shape   4: component1:fat, material: fat,    user-priority: 0,  2D/3D-geometry: true, material-attributes: kappa-eps.normal.rho,   shape-attributes: solid,  
+Priority-group:   2, shape   5: component1:muscle,  material: muscle, user-priority: 0,  2D/3D-geometry: true, material-attributes: kappa-eps.normal.rho,   shape-attributes: solid,  
+Priority-group:   2, shape   6: component1:skin,    material: skin,   user-priority: 0,  2D/3D-geometry: true, material-attributes: dispersive-eps.dispersive-mue.normal.rho,   shape-attributes: solid,  
+Priority-group:   2, shape   7: connector:vaccum,   material: PTFE (lossy),   user-priority: 0,  2D/3D-geometry: true, material-attributes: dispersive-eps.dispersive-mue.normal.rho,   shape-attributes: solid,  
+Priority-group:   3, shape   2: Patch:Logo, material: Copper (annealed),  user-priority: 0,  2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,  
+Priority-group:   3, shape   9: Patch:Logo (Lump 2),    material: Copper (annealed),  user-priority: 0,  2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,  
+Priority-group:   3, shape  10: Patch:Logo (Lump 3),    material: Copper (annealed),  user-priority: 0,  2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,  
+Priority-group:   3, shape   8: gorund:Ground,  material: Copper (annealed),  user-priority: 0,  2D/3D-geometry: true, material-attributes: pec.rho.surface-impedance,  shape-attributes: solid,  
+ 
+==================================================================================================================================================================================================================
+ 

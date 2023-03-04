@@ -1,0 +1,2141 @@
+3000 0 17 0           
+20 CST MICROWAVE STUDIO 14 ACIS 30.0.1 NT 24 Thu Aug 18 11:06:14 2022 
+1 9.9999999999999995e-07 1e-10 
+T @77 2Z9G6J2D3UM9DHER_JDA_237U3MK8NN5W8CMEAPUPCFCGA66QAMVSP647A_ME8NWPCNKEPQXXARKM 
+vertex $17 -1 -1 $-1 $-1 $18 #
+vertex $19 -1 -1 $-1 $-1 $20 #
+face $21 -1 -1 $-1 $-1 $22 $-1 $-1 $23 forward single F F #
+vertex $24 -1 -1 $-1 $-1 $25 #
+face $26 -1 -1 $-1 $-1 $27 $-1 $-1 $28 forward single F F #
+face $29 -1 -1 $-1 $-1 $30 $-1 $-1 $31 reversed single F F #
+face $32 -1 -1 $-1 $-1 $33 $-1 $-1 $34 reversed single F F #
+face $35 -1 -1 $-1 $-1 $36 $-1 $-1 $37 reversed single F F #
+face $38 -1 -1 $-1 $-1 $39 $-1 $-1 $40 reversed single F F #
+face $41 -1 -1 $-1 $-1 $42 $-1 $-1 $43 forward single F F #
+face $44 -1 -1 $-1 $-1 $45 $-1 $-1 $46 forward single F F #
+face $47 -1 -1 $-1 $-1 $48 $-1 $-1 $49 forward single F F #
+face $50 -1 -1 $-1 $-1 $51 $-1 $-1 $52 forward single F F #
+face $53 -1 -1 $-1 $-1 $54 $-1 $-1 $55 forward single F F #
+face $56 -1 -1 $-1 $-1 $57 $-1 $-1 $58 reversed single F F #
+face $59 -1 -1 $-1 $-1 $60 $-1 $-1 $61 reversed single F F #
+face $62 -1 -1 $-1 $-1 $63 $-1 $-1 $64 forward single F F #
+name_attrib-gen-attrib $-1 -1 $65 $-1 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+point $-1 -1 -1 $-1 -31.100000000000001 8.167481155659928 0.14999999999999999 #
+name_attrib-gen-attrib $-1 -1 $66 $-1 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+point $-1 -1 -1 $-1 -18 6.7000000000000002 0.14999999999999999 #
+name_attrib-gen-attrib $-1 -1 $67 $-1 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 nconnector:vaccum #
+loop $-1 -1 -1 $-1 $68 $69 $2 F unknown #
+plane-surface $-1 -1 -1 $-1 -35.399999999999999 6.6749999999999998 1.0249999999999999 -1 -7.1271548305580596e-73 -0 -0 -0 -1 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $70 $-1 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 nPatch:solid1 #
+point $-1 -1 -1 $-1 8.5 4 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $71 $-1 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $72 $4 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0.14999999999999999 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $73 $-1 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $74 $5 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $75 $-1 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $76 $6 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $77 $-1 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $78 $7 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $79 $-1 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $80 $8 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $81 $-1 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @11 nPatch:Logo #
+loop $-1 -1 -1 $-1 $82 $83 $9 F unknown #
+plane-surface $-1 -1 -1 $-1 0 5.2999999999999998 0.64999999999999991 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $84 $-1 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 ncomponent1:skin #
+loop $-1 -1 -1 $-1 $-1 $85 $10 F unknown #
+plane-surface $-1 -1 -1 $-1 0 5.2999999999999998 3 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $86 $-1 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ncomponent1:fat #
+loop $-1 -1 -1 $-1 $-1 $87 $11 F unknown #
+plane-surface $-1 -1 -1 $-1 0 5.3000000000000007 9 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $88 $-1 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ncomponent1:muscle #
+loop $-1 -1 -1 $-1 $-1 $89 $12 F unknown #
+plane-surface $-1 -1 -1 $-1 0 5.3000000000000007 13 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $90 $-1 $13 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ncomponent1:muscle #
+loop $-1 -1 -1 $-1 $-1 $91 $13 F unknown #
+plane-surface $-1 -1 -1 $-1 0 5.3000000000000007 13 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $92 $-1 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $93 $14 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $94 $-1 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 ngorund:Ground #
+loop $-1 -1 -1 $-1 $-1 $95 $15 F unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+name_attrib-gen-attrib $-1 -1 $96 $-1 $16 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 ncomponent1:skin #
+loop $-1 -1 -1 $-1 $-1 $97 $16 F unknown #
+plane-surface $-1 -1 -1 $-1 0.97823691238456956 -0.28929904437079734 -40.75 0 0 -1 1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $98 $17 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $99 $19 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 2 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $100 $21 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+loop $-1 -1 -1 $-1 $-1 $101 $2 F unknown #
+coedge $-1 -1 -1 $-1 $69 $69 $-1 $102 reversed $22 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $103 $24 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $104 $26 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $105 $106 $-1 $107 forward $27 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $108 $29 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $109 $110 $-1 $111 forward $30 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $112 $32 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $113 $114 $-1 $115 forward $33 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $116 $35 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $117 $118 $-1 $119 forward $36 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $120 $38 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $121 $122 $-1 $123 forward $39 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $124 $41 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+loop $-1 -1 -1 $-1 $125 $126 $9 F unknown #
+coedge $-1 -1 -1 $-1 $127 $128 $-1 $129 forward $42 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $130 $44 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $131 $132 $-1 $133 forward $45 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $134 $47 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $135 $136 $-1 $137 forward $48 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $138 $50 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $139 $140 $-1 $141 forward $51 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $142 $53 $13 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $143 $144 $-1 $145 forward $54 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $146 $56 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $147 $148 $-1 $149 forward $57 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $150 $59 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $151 $152 $-1 $153 forward $60 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $154 $62 $16 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 backwd_pickNumber 1 #
+coedge $-1 -1 -1 $-1 $97 $97 $-1 $155 forward $63 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $156 $65 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 87 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $157 $66 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 87 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $158 $67 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 94 #
+coedge $-1 -1 -1 $-1 $101 $101 $-1 $159 forward $68 $-1 #
+edge $160 -1 -1 $-1 $161 1.3397438788742624e-15 $161 6.283185307179588 $69 $162 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $163 $70 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 103 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $164 $71 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 136 #
+coedge $-1 -1 -1 $-1 $165 $72 $-1 $166 forward $27 $-1 #
+coedge $-1 -1 -1 $-1 $72 $167 $-1 $168 forward $27 $-1 #
+edge $169 -1 -1 $-1 $170 13.174999999999997 $171 17.575000000000003 $72 $172 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $173 $73 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 141 #
+coedge $-1 -1 -1 $-1 $174 $74 $-1 $175 forward $30 $-1 #
+coedge $-1 -1 -1 $-1 $74 $176 $-1 $177 forward $30 $-1 #
+edge $178 -1 -1 $-1 $179 -17.575000000000003 $180 -13.174999999999997 $74 $181 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $182 $75 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 144 #
+coedge $-1 -1 -1 $-1 $183 $76 $-1 $184 forward $33 $-1 #
+coedge $-1 -1 -1 $-1 $76 $185 $-1 $186 forward $33 $-1 #
+edge $187 -1 -1 $-1 $188 -17.575000000000003 $189 -13.174999999999997 $76 $190 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $191 $77 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 145 #
+coedge $-1 -1 -1 $-1 $192 $78 $-1 $193 forward $36 $-1 #
+coedge $-1 -1 -1 $-1 $78 $194 $-1 $195 forward $36 $-1 #
+edge $196 -1 -1 $-1 $197 -17.575000000000003 $198 -13.174999999999997 $78 $199 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $200 $79 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 158 #
+coedge $-1 -1 -1 $-1 $201 $80 $-1 $202 forward $39 $-1 #
+coedge $-1 -1 -1 $-1 $80 $203 $-1 $204 forward $39 $-1 #
+edge $205 -1 -1 $-1 $206 -17.575000000000003 $207 -13.174999999999997 $80 $208 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $209 $81 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 215 #
+loop $-1 -1 -1 $-1 $210 $211 $9 F unknown #
+coedge $-1 -1 -1 $-1 $212 $213 $-1 $214 forward $82 $-1 #
+coedge $-1 -1 -1 $-1 $215 $83 $-1 $216 forward $42 $-1 #
+coedge $-1 -1 -1 $-1 $83 $217 $-1 $218 forward $42 $-1 #
+edge $219 -1 -1 $-1 $220 -2.25 $221 -0.25 $83 $222 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $223 $84 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 227 #
+coedge $-1 -1 -1 $-1 $224 $85 $-1 $225 forward $45 $-1 #
+coedge $-1 -1 -1 $-1 $85 $224 $-1 $226 forward $45 $-1 #
+edge $227 -1 -1 $-1 $228 -10.300000000000001 $229 10.300000000000001 $85 $230 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $231 $86 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 230 #
+coedge $-1 -1 -1 $-1 $232 $87 $-1 $233 forward $48 $-1 #
+coedge $-1 -1 -1 $-1 $87 $232 $-1 $234 forward $48 $-1 #
+edge $235 -1 -1 $-1 $236 -10.300000000000001 $237 10.300000000000001 $87 $238 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $239 $88 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 240 #
+coedge $-1 -1 -1 $-1 $240 $89 $-1 $241 forward $51 $-1 #
+coedge $-1 -1 -1 $-1 $89 $240 $-1 $242 forward $51 $-1 #
+edge $243 -1 -1 $-1 $244 -10.300000000000001 $245 10.300000000000001 $89 $246 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $247 $90 $13 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 251 #
+coedge $-1 -1 -1 $-1 $248 $91 $-1 $249 forward $54 $-1 #
+coedge $-1 -1 -1 $-1 $91 $248 $-1 $250 forward $54 $-1 #
+edge $251 -1 -1 $-1 $252 -10.300000000000001 $253 10.300000000000001 $91 $254 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $255 $92 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 340 #
+coedge $-1 -1 -1 $-1 $256 $93 $-1 $257 forward $57 $-1 #
+coedge $-1 -1 -1 $-1 $93 $258 $-1 $259 forward $57 $-1 #
+edge $260 -1 -1 $-1 $261 -17.575000000000003 $262 -13.174999999999997 $93 $263 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $264 $94 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 343 #
+coedge $-1 -1 -1 $-1 $265 $95 $-1 $266 forward $60 $-1 #
+coedge $-1 -1 -1 $-1 $95 $267 $-1 $268 forward $60 $-1 #
+edge $269 -1 -1 $-1 $270 -17.575000000000003 $271 -13.174999999999997 $95 $272 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $273 $96 $16 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 backwd_blockNumber 348 #
+edge $274 -1 -1 $-1 $275 -3.1415926535897931 $275 3.1415926535897931 $97 $276 forward @7 unknown F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $98 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 297 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $99 $1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 229 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $277 $100 $2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+edge $278 -1 -1 $-1 $279 0 $279 6.2831853071795862 $101 $280 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $102 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $102 $281 #
+ellipse-curve $-1 -1 -1 $-1 -35.399999999999999 6.674999999999998 -3.275956659668789e-44 1 0 -2.7082562489251688e-58 0 3.6185046728523616e-15 1.375 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $103 $3 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $282 $104 $4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 157 #
+coedge $-1 -1 -1 $-1 $283 $105 $-1 $284 forward $27 $-1 #
+edge $285 -1 -1 $-1 $171 -5.3000000000000007 $286 -5.1825188443400672 $105 $287 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $106 $288 $-1 $289 forward $27 $-1 #
+edge $290 -1 -1 $-1 $291 -5.25 $170 -1.5500000000000007 $106 $292 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $107 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $107 $293 #
+vertex $-1 -1 -1 $-1 $166 $294 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0.14999999999999999 -1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $295 $108 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 166 #
+coedge $-1 -1 -1 $-1 $296 $109 $-1 $297 forward $30 $-1 #
+edge $298 -1 -1 $-1 $180 1.5500000000000007 $299 5.25 $109 $300 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $110 $301 $-1 $302 forward $30 $-1 #
+edge $303 -1 -1 $-1 $304 5.1749999999999972 $179 5.3000000000000007 $110 $305 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $111 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $111 $306 #
+vertex $-1 -1 -1 $-1 $111 $307 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $308 $112 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 166 #
+coedge $-1 -1 -1 $-1 $309 $113 $-1 $310 forward $33 $-1 #
+edge $311 -1 -1 $-1 $189 1.5500000000000007 $312 5.25 $113 $313 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $114 $314 $-1 $315 forward $33 $-1 #
+edge $316 -1 -1 $-1 $317 5.1749999999999972 $188 5.3000000000000007 $114 $318 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $115 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $115 $319 #
+vertex $-1 -1 -1 $-1 $115 $320 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $321 $116 $7 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 166 #
+coedge $-1 -1 -1 $-1 $322 $117 $-1 $323 forward $36 $-1 #
+edge $324 -1 -1 $-1 $198 1.5500000000000007 $325 5.25 $117 $326 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $118 $327 $-1 $328 forward $36 $-1 #
+edge $329 -1 -1 $-1 $330 5.1749999999999972 $197 5.3000000000000007 $118 $331 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $119 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $119 $332 #
+vertex $-1 -1 -1 $-1 $119 $333 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $334 $120 $8 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 166 #
+coedge $-1 -1 -1 $-1 $335 $121 $-1 $336 forward $39 $-1 #
+edge $337 -1 -1 $-1 $207 1.5500000000000007 $338 5.25 $121 $339 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $122 $340 $-1 $341 forward $39 $-1 #
+edge $342 -1 -1 $-1 $343 5.1749999999999972 $206 5.3000000000000007 $122 $344 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $123 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $123 $345 #
+vertex $-1 -1 -1 $-1 $123 $346 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $347 $124 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 128 #
+loop $-1 -1 -1 $-1 $348 $349 $9 F unknown #
+coedge $-1 -1 -1 $-1 $350 $351 $-1 $352 forward $125 $-1 #
+coedge $-1 -1 -1 $-1 $353 $126 $-1 $354 forward $82 $-1 #
+coedge $-1 -1 -1 $-1 $126 $355 $-1 $356 forward $82 $-1 #
+edge $357 -1 -1 $-1 $358 2.75 $359 4.75 $126 $360 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $361 $127 $-1 $362 forward $42 $-1 #
+edge $363 -1 -1 $-1 $221 -3.4749999999999996 $364 2.0250000000000004 $127 $365 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $128 $366 $-1 $367 forward $42 $-1 #
+edge $368 -1 -1 $-1 $369 -0.52500000000000036 $220 2.9749999999999996 $128 $370 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $129 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $129 $371 #
+vertex $-1 -1 -1 $-1 $129 $372 #
+straight-curve $-1 -1 -1 $-1 -1.25 9.5 0.64999999999999991 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $373 $130 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+coedge $-1 -1 -1 $-1 $132 $131 $-1 $374 forward $45 $-1 #
+edge $375 -1 -1 $-1 $229 -22.625 $376 22.625 $131 $377 forward @7 unknown F #
+edge $378 -1 -1 $-1 $379 -22.625 $228 22.625 $132 $380 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $133 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $133 $381 #
+vertex $-1 -1 -1 $-1 $133 $382 #
+straight-curve $-1 -1 -1 $-1 22.625 5.2999999999999998 3 0 1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $383 $134 $11 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+coedge $-1 -1 -1 $-1 $136 $135 $-1 $384 forward $48 $-1 #
+edge $385 -1 -1 $-1 $237 -22.625 $386 22.625 $135 $387 forward @7 unknown F #
+edge $388 -1 -1 $-1 $389 -22.625 $236 22.625 $136 $390 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $137 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $137 $391 #
+vertex $-1 -1 -1 $-1 $137 $392 #
+straight-curve $-1 -1 -1 $-1 22.625 5.3000000000000007 9 0 1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $393 $138 $12 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+coedge $-1 -1 -1 $-1 $140 $139 $-1 $394 forward $51 $-1 #
+edge $395 -1 -1 $-1 $245 -22.625 $396 22.625 $139 $397 forward @7 unknown F #
+edge $398 -1 -1 $-1 $399 -22.625 $244 22.625 $140 $400 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $141 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $141 $401 #
+vertex $-1 -1 -1 $-1 $141 $402 #
+straight-curve $-1 -1 -1 $-1 22.625 5.3000000000000007 13 0 1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $403 $142 $13 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+coedge $-1 -1 -1 $-1 $144 $143 $-1 $404 forward $54 $-1 #
+edge $405 -1 -1 $-1 $253 -22.625 $406 22.625 $143 $407 forward @7 unknown F #
+edge $408 -1 -1 $-1 $409 -22.625 $252 22.625 $144 $410 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $145 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $145 $411 #
+vertex $-1 -1 -1 $-1 $145 $412 #
+straight-curve $-1 -1 -1 $-1 22.625 5.3000000000000007 13 0 1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $413 $146 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 168 #
+coedge $-1 -1 -1 $-1 $414 $147 $-1 $415 forward $57 $-1 #
+edge $416 -1 -1 $-1 $262 1.5500000000000007 $417 5.25 $147 $418 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $148 $419 $-1 $420 forward $57 $-1 #
+edge $421 -1 -1 $-1 $422 5.1749999999999972 $261 5.3000000000000007 $148 $423 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $149 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $149 $424 #
+vertex $-1 -1 -1 $-1 $149 $425 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $426 $150 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 168 #
+coedge $-1 -1 -1 $-1 $427 $151 $-1 $428 forward $60 $-1 #
+edge $429 -1 -1 $-1 $271 1.5500000000000007 $430 5.25 $151 $431 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $152 $432 $-1 $433 forward $60 $-1 #
+edge $434 -1 -1 $-1 $435 5.1749999999999972 $270 5.3000000000000007 $152 $436 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $153 $437 #
+vertex $-1 -1 -1 $-1 $153 $438 #
+straight-curve $-1 -1 -1 $-1 -13.524999999999999 5.3000000000000007 0 1 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $439 $154 $16 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 backwd_id 1 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $155 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $155 $440 #
+ellipse-curve $-1 -1 -1 $-1 0.97823691238456956 -0.28929904437079734 -40.75 0 0 -1 0 -40 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $158 $2 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $159 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $159 $441 #
+ellipse-curve $-1 -1 -1 $-1 -35.399999999999999 6.674999999999998 -3.275956659668789e-44 1 0 -2.7082562489251688e-58 0 1.7763568394002505e-15 0.67500000000000004 1 I I #
+point $-1 -1 -1 $-1 -35.399999999999999 6.6749999999999998 1.375 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $164 $4 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $442 $165 $-1 $443 forward $27 $-1 #
+edge $444 -1 -1 $-1 $286 -5.1825188443400672 $445 15.6 $165 $287 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $166 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $284 $446 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0.14999999999999999 0 -1 0 I I #
+coedge $-1 -1 -1 $-1 $167 $447 $-1 $448 forward $27 $-1 #
+edge $449 -1 -1 $-1 $450 12.6 $291 13.6 $167 $451 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $168 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $168 $452 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0.14999999999999999 0 -1 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0.14999999999999999 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0.14999999999999999 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $173 $5 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $453 $174 $-1 $454 forward $30 $-1 #
+edge $455 -1 -1 $-1 $299 -13.6 $456 -12.6 $174 $457 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $175 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $175 $458 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $176 $459 $-1 $460 forward $30 $-1 #
+edge $461 -1 -1 $-1 $462 -15.6 $304 5.1749999999999972 $176 $305 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $177 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $177 $463 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0 0 1 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0 #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $182 $6 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $464 $183 $-1 $465 forward $33 $-1 #
+edge $466 -1 -1 $-1 $312 -13.6 $467 -12.6 $183 $468 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $184 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $184 $469 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $185 $470 $-1 $471 forward $33 $-1 #
+edge $472 -1 -1 $-1 $473 -15.6 $317 5.1749999999999972 $185 $318 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $186 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $186 $474 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0 0 1 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0 #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $191 $7 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $475 $192 $-1 $476 forward $36 $-1 #
+edge $477 -1 -1 $-1 $325 -13.6 $478 -12.6 $192 $479 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $193 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $193 $480 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $194 $481 $-1 $482 forward $36 $-1 #
+edge $483 -1 -1 $-1 $484 -15.6 $330 5.1749999999999972 $194 $331 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $195 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $195 $485 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0 0 1 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0 #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $200 $8 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $486 $201 $-1 $487 forward $39 $-1 #
+edge $488 -1 -1 $-1 $338 -13.6 $489 -12.6 $201 $490 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $202 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $202 $491 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $203 $492 $-1 $493 forward $39 $-1 #
+edge $494 -1 -1 $-1 $495 -15.6 $343 5.1749999999999972 $203 $344 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $204 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $204 $496 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0 0 1 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0 #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $209 $9 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+loop $-1 -1 -1 $-1 $497 $498 $9 F unknown #
+coedge $-1 -1 -1 $-1 $499 $500 $-1 $501 forward $210 $-1 #
+coedge $-1 -1 -1 $-1 $502 $211 $-1 $503 forward $125 $-1 #
+coedge $-1 -1 -1 $-1 $211 $504 $-1 $505 forward $125 $-1 #
+edge $506 -1 -1 $-1 $507 -9.125 $508 -7.125 $211 $509 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $510 $212 $-1 $511 forward $82 $-1 #
+edge $512 -1 -1 $-1 $359 -3.4749999999999996 $513 2.0250000000000004 $212 $514 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $213 $515 $-1 $516 forward $82 $-1 #
+edge $517 -1 -1 $-1 $518 1.6617009357883861 $358 4.4901280605345759 $213 $519 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $214 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $214 $520 #
+vertex $-1 -1 -1 $-1 $214 $521 #
+straight-curve $-1 -1 -1 $-1 3.75 9.5 0.64999999999999991 1 0 0 I I #
+coedge $-1 -1 -1 $-1 $522 $215 $-1 $523 forward $42 $-1 #
+edge $524 -1 -1 $-1 $364 0.25 $525 2.25 $215 $526 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $216 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $362 $527 #
+straight-curve $-1 -1 -1 $-1 -1.5 6.0250000000000004 0.64999999999999991 -0 -1 0 I I #
+coedge $-1 -1 -1 $-1 $217 $528 $-1 $529 forward $42 $-1 #
+edge $530 -1 -1 $-1 $531 -4.8619538858606308 $369 -0.25218165721418773 $217 $532 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $218 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $218 $533 #
+straight-curve $-1 -1 -1 $-1 -3.5 6.5250000000000004 0.64999999999999991 0 1 0 I I #
+point $-1 -1 -1 $-1 -3.5 9.5 0.64999999999999991 #
+point $-1 -1 -1 $-1 -1.5 9.5 0.64999999999999991 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $223 $10 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $534 -1 -1 $-1 $376 -10.300000000000001 $379 10.300000000000001 $224 $535 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $225 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $225 $536 #
+straight-curve $-1 -1 -1 $-1 0 15.600000000000001 3 -1 0 0 I I #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $226 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $374 $537 #
+straight-curve $-1 -1 -1 $-1 0 -5.0000000000000009 3 1 0 0 I I #
+point $-1 -1 -1 $-1 22.625 -5.0000000000000009 3 #
+point $-1 -1 -1 $-1 22.625 15.600000000000001 3 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $231 $11 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $538 -1 -1 $-1 $386 -10.300000000000001 $389 10.300000000000001 $232 $539 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $233 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $233 $540 #
+straight-curve $-1 -1 -1 $-1 0 15.600000000000001 9 -1 0 0 I I #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $234 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $384 $541 #
+straight-curve $-1 -1 -1 $-1 0 -5 9 1 0 0 I I #
+point $-1 -1 -1 $-1 22.625 -5 9 #
+point $-1 -1 -1 $-1 22.625 15.600000000000001 9 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $239 $12 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $542 -1 -1 $-1 $396 -10.300000000000001 $399 10.300000000000001 $240 $543 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $241 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $241 $544 #
+straight-curve $-1 -1 -1 $-1 0 15.600000000000001 13 -1 0 0 I I #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $242 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $394 $545 #
+straight-curve $-1 -1 -1 $-1 0 -5 13 1 0 0 I I #
+point $-1 -1 -1 $-1 22.625 -5 13 #
+point $-1 -1 -1 $-1 22.625 15.600000000000001 13 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $247 $13 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+edge $546 -1 -1 $-1 $406 -10.300000000000001 $409 10.300000000000001 $248 $547 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $249 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $249 $548 #
+straight-curve $-1 -1 -1 $-1 0 15.600000000000001 13 -1 0 0 I I #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $250 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $404 $549 #
+straight-curve $-1 -1 -1 $-1 0 -5 13 1 0 0 I I #
+point $-1 -1 -1 $-1 22.625 -5 13 #
+point $-1 -1 -1 $-1 22.625 15.600000000000001 13 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $255 $14 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $550 $256 $-1 $551 forward $57 $-1 #
+edge $552 -1 -1 $-1 $417 -13.6 $553 -12.6 $256 $554 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $257 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $257 $555 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $258 $556 $-1 $557 forward $57 $-1 #
+edge $558 -1 -1 $-1 $559 -15.6 $422 5.1749999999999972 $258 $423 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $259 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $259 $560 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0 0 1 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0 #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $264 $15 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+coedge $-1 -1 -1 $-1 $561 $265 $-1 $562 forward $60 $-1 #
+edge $563 -1 -1 $-1 $430 -13.6 $564 -12.6 $265 $565 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $266 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $266 $566 #
+straight-curve $-1 -1 -1 $-1 -26.699999999999996 3.75 0 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $267 $567 $-1 $568 forward $60 $-1 #
+edge $569 -1 -1 $-1 $570 -15.6 $435 5.1749999999999972 $267 $436 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $268 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $268 $571 #
+straight-curve $-1 -1 -1 $-1 -31.100000000000001 0 0 0 1 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 5.3000000000000007 0 #
+point $-1 -1 -1 $-1 -26.699999999999996 5.3000000000000007 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $273 $16 2 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 fif 0 #
+point $-1 -1 -1 $-1 0.97823691238457444 39.7107009556292 -40.75 #
+point $-1 -1 -1 $-1 -35.399999999999999 6.6749999999999998 0.67500000000000004 #
+coedge $-1 -1 -1 $-1 $572 $283 $-1 $573 forward $27 $-1 #
+edge $574 -1 -1 $-1 $445 -31.100000000000001 $575 31.100000000000001 $283 $576 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $284 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $284 $577 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1825188443400672 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $288 $578 $-1 $579 forward $27 $-1 #
+edge $580 -1 -1 $-1 $581 -0.32499999999999973 $450 5.875 $288 $582 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $289 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $289 $583 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0.14999999999999999 -1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $584 $296 $-1 $585 forward $30 $-1 #
+edge $586 -1 -1 $-1 $456 -5.875 $587 0.32499999999999973 $296 $588 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $297 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $297 $589 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $301 $590 $-1 $591 forward $30 $-1 #
+edge $592 -1 -1 $-1 $593 -31.100000000000001 $462 31.100000000000001 $301 $594 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $302 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $302 $595 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $596 $309 $-1 $597 forward $33 $-1 #
+edge $598 -1 -1 $-1 $467 -5.875 $599 0.32499999999999973 $309 $600 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $310 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $310 $601 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $314 $602 $-1 $603 forward $33 $-1 #
+edge $604 -1 -1 $-1 $605 -31.100000000000001 $473 31.100000000000001 $314 $606 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $315 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $315 $607 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $608 $322 $-1 $609 forward $36 $-1 #
+edge $610 -1 -1 $-1 $478 -5.875 $611 0.32499999999999973 $322 $612 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $323 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $323 $613 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $327 $614 $-1 $615 forward $36 $-1 #
+edge $616 -1 -1 $-1 $617 -31.100000000000001 $484 31.100000000000001 $327 $618 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $328 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $328 $619 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $620 $335 $-1 $621 forward $39 $-1 #
+edge $622 -1 -1 $-1 $489 -5.875 $623 0.32499999999999973 $335 $624 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $336 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $336 $625 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $340 $626 $-1 $627 forward $39 $-1 #
+edge $628 -1 -1 $-1 $629 -31.100000000000001 $495 31.100000000000001 $340 $630 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $341 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $341 $631 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1749999999999972 0 #
+loop $-1 -1 -1 $-1 $-1 $632 $9 F unknown #
+coedge $-1 -1 -1 $-1 $498 $498 $-1 $633 forward $348 $-1 #
+coedge $-1 -1 -1 $-1 $634 $349 $-1 $635 forward $210 $-1 #
+coedge $-1 -1 -1 $-1 $349 $634 $-1 $636 forward $210 $-1 #
+edge $637 -1 -1 $-1 $638 -6.5 $639 -4.5 $349 $640 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $641 $350 $-1 $642 forward $125 $-1 #
+edge $643 -1 -1 $-1 $508 -1.6874999999999996 $644 2.3625000000000007 $350 $645 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $351 $646 $-1 $647 forward $125 $-1 #
+edge $648 -1 -1 $-1 $649 -2.3625000000000007 $507 1.6874999999999996 $351 $650 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $352 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $352 $651 #
+vertex $-1 -1 -1 $-1 $352 $652 #
+straight-curve $-1 -1 -1 $-1 8.125 3.9499999999999997 0.64999999999999991 -1 0 0 I I #
+coedge $-1 -1 -1 $-1 $653 $353 $-1 $654 forward $82 $-1 #
+edge $655 -1 -1 $-1 $513 -4.75 $656 -2.75 $353 $657 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $354 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $511 $658 #
+straight-curve $-1 -1 -1 $-1 8.5 6.0250000000000004 0.64999999999999991 -0 -1 0 I I #
+coedge $-1 -1 -1 $-1 $355 $659 $-1 $660 forward $82 $-1 #
+edge $661 -1 -1 $-1 $662 -1.3081475451951132 $518 1.5202795795510766 $355 $663 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $356 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $356 $664 #
+straight-curve $-1 -1 -1 $-1 3.3249999999999997 6.3250000000000011 0.64999999999999991 0.70710678118654691 0.70710678118654691 -0 I I #
+point $-1 -1 -1 $-1 6.5 9.5 0.64999999999999991 #
+point $-1 -1 -1 $-1 8.5 9.5 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $665 $361 $-1 $666 forward $42 $-1 #
+edge $667 -1 -1 $-1 $525 -0.50707494515110862 $668 4.1026972834953348 $361 $669 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $362 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $523 $670 #
+straight-curve $-1 -1 -1 $-1 -1.25 4 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 -1.5 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $366 $665 $-1 $671 forward $42 $-1 #
+edge $672 -1 -1 $-1 $673 -4.75 $531 -2.75 $366 $674 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $367 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $367 $675 #
+straight-curve $-1 -1 -1 $-1 -3.3358823529411765 5.8085294117647059 0.64999999999999991 0.65079137345596849 -0.75925660236529657 0 I I #
+point $-1 -1 -1 $-1 -3.5 6 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $374 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.625 5.2999999999999998 3 0 -1 0 I I #
+point $-1 -1 -1 $-1 -22.625 15.600000000000001 3 #
+point $-1 -1 -1 $-1 -22.625 -5.0000000000000009 3 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $384 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.625 5.3000000000000007 9 0 -1 0 I I #
+point $-1 -1 -1 $-1 -22.625 15.600000000000001 9 #
+point $-1 -1 -1 $-1 -22.625 -5 9 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $394 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.625 5.3000000000000007 13 0 -1 0 I I #
+point $-1 -1 -1 $-1 -22.625 15.600000000000001 13 #
+point $-1 -1 -1 $-1 -22.625 -5 13 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $404 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.625 5.3000000000000007 13 0 -1 0 I I #
+point $-1 -1 -1 $-1 -22.625 15.600000000000001 13 #
+point $-1 -1 -1 $-1 -22.625 -5 13 #
+coedge $-1 -1 -1 $-1 $676 $414 $-1 $677 forward $57 $-1 #
+edge $678 -1 -1 $-1 $553 -5.875 $679 0.32499999999999973 $414 $680 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $415 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $415 $681 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $419 $682 $-1 $683 forward $57 $-1 #
+edge $684 -1 -1 $-1 $685 -31.100000000000001 $559 31.100000000000001 $419 $686 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $420 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $420 $687 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $688 $427 $-1 $689 forward $60 $-1 #
+edge $690 -1 -1 $-1 $564 -5.875 $691 0.32499999999999973 $427 $692 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $428 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $428 $693 #
+straight-curve $-1 -1 -1 $-1 -13.1 9 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -26.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $432 $694 $-1 $695 forward $60 $-1 #
+edge $696 -1 -1 $-1 $697 -31.100000000000001 $570 31.100000000000001 $432 $698 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $433 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $433 $699 #
+point $-1 -1 -1 $-1 -31.100000000000001 5.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $700 $442 $-1 $701 forward $27 $-1 #
+edge $702 -1 -1 $-1 $575 -15.6 $703 15.6 $442 $704 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $443 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $573 $705 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0.14999999999999999 1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $447 $706 $-1 $707 forward $27 $-1 #
+edge $708 -1 -1 $-1 $709 9.4249999999999972 $581 15.925000000000004 $447 $710 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $448 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $448 $711 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0.14999999999999999 0 1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $712 $453 $-1 $713 forward $30 $-1 #
+edge $714 -1 -1 $-1 $587 -15.925000000000004 $715 -9.4249999999999972 $453 $716 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $454 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $454 $717 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $459 $718 $-1 $719 forward $30 $-1 #
+edge $720 -1 -1 $-1 $721 -15.6 $593 15.6 $459 $722 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $460 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $591 $723 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $724 $464 $-1 $725 forward $33 $-1 #
+edge $726 -1 -1 $-1 $599 -15.925000000000004 $727 -9.4249999999999972 $464 $728 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $465 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $465 $729 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $470 $730 $-1 $731 forward $33 $-1 #
+edge $732 -1 -1 $-1 $733 -15.6 $605 15.6 $470 $734 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $471 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $603 $735 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $736 $475 $-1 $737 forward $36 $-1 #
+edge $738 -1 -1 $-1 $611 -15.925000000000004 $739 -9.4249999999999972 $475 $740 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $476 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $476 $741 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $481 $742 $-1 $743 forward $36 $-1 #
+edge $744 -1 -1 $-1 $745 -15.6 $617 15.6 $481 $746 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $482 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $615 $747 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $748 $486 $-1 $749 forward $39 $-1 #
+edge $750 -1 -1 $-1 $623 -15.925000000000004 $751 -9.4249999999999972 $486 $752 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $487 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $487 $753 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $492 $754 $-1 $755 forward $39 $-1 #
+edge $756 -1 -1 $-1 $757 -15.6 $629 15.6 $492 $758 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $493 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $627 $759 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $760 $761 $-1 $762 forward $497 $-1 #
+edge $763 -1 -1 $-1 $764 0 $764 20.237833197373238 $498 $765 forward @7 unknown F #
+coedge $-1 -1 -1 $-1 $500 $499 $-1 $766 forward $210 $-1 #
+edge $767 -1 -1 $-1 $639 -2.0250000000000004 $768 3.4749999999999996 $499 $769 forward @7 unknown F #
+edge $770 -1 -1 $-1 $771 -3.4749999999999996 $638 2.0250000000000004 $500 $772 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $501 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $501 $773 #
+vertex $-1 -1 -1 $-1 $501 $774 #
+straight-curve $-1 -1 -1 $-1 5.5 4 0.64999999999999991 -1 0 0 I I #
+coedge $-1 -1 -1 $-1 $775 $502 $-1 $776 forward $125 $-1 #
+edge $777 -1 -1 $-1 $644 -7.125 $778 -5.375 $502 $779 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $503 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $503 $780 #
+straight-curve $-1 -1 -1 $-1 15.25 5.6374999999999993 0.64999999999999991 0 1 0 I I #
+coedge $-1 -1 -1 $-1 $504 $775 $-1 $781 forward $125 $-1 #
+edge $782 -1 -1 $-1 $783 -10.875 $649 -9.125 $504 $784 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $505 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $505 $785 #
+straight-curve $-1 -1 -1 $-1 17.25 5.6374999999999993 0.64999999999999991 0 -1 0 I I #
+point $-1 -1 -1 $-1 17.25 3.9499999999999997 0.64999999999999991 #
+point $-1 -1 -1 $-1 15.25 3.9499999999999997 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $786 $510 $-1 $787 forward $82 $-1 #
+edge $788 -1 -1 $-1 $656 -1.4000000000000004 $789 1.5999999999999996 $510 $790 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $511 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $654 $791 #
+straight-curve $-1 -1 -1 $-1 3.75 4 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 8.5 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $515 $792 $-1 $793 forward $82 $-1 #
+edge $794 -1 -1 $-1 $795 -0.25 $662 1.75 $515 $796 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $516 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $516 $797 #
+straight-curve $-1 -1 -1 $-1 3.4249999999999998 8.5749999999999993 0.64999999999999991 0.70710678118654691 -0.70710678118654691 0 I I #
+point $-1 -1 -1 $-1 4.5 7.5 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $528 $522 $-1 $798 forward $42 $-1 #
+edge $799 -1 -1 $-1 $668 -1.9749999999999996 $800 1.5250000000000004 $522 $801 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $523 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $666 $802 #
+straight-curve $-1 -1 -1 $-1 -3.8300000000000001 4.3849999999999998 0.64999999999999991 -0.65079137345596849 0.75925660236529657 0 I I #
+point $-1 -1 -1 $-1 -3.5 4 0.64999999999999991 #
+edge $803 -1 -1 $-1 $804 -2.0250000000000004 $673 3.4749999999999996 $528 $805 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $529 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $529 $806 #
+straight-curve $-1 -1 -1 $-1 -3.75 9.5 0.64999999999999991 1 0 0 I I #
+point $-1 -1 -1 $-1 -6.5 9.5 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $807 $550 $-1 $808 forward $57 $-1 #
+edge $809 -1 -1 $-1 $679 -15.925000000000004 $810 -9.4249999999999972 $550 $811 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $551 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $551 $812 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $556 $813 $-1 $814 forward $57 $-1 #
+edge $815 -1 -1 $-1 $816 -15.6 $685 15.6 $556 $817 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $557 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $683 $818 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $819 $561 $-1 $820 forward $60 $-1 #
+edge $821 -1 -1 $-1 $691 -15.925000000000004 $822 -9.4249999999999972 $561 $823 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $562 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $562 $824 #
+straight-curve $-1 -1 -1 $-1 -25.700000000000003 3.125 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -25.699999999999999 9 0 #
+coedge $-1 -1 -1 $-1 $567 $825 $-1 $826 forward $60 $-1 #
+edge $827 -1 -1 $-1 $828 -15.6 $697 15.6 $567 $829 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $568 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $695 $830 #
+straight-curve $-1 -1 -1 $-1 0 -15.6 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $831 $572 $-1 $832 forward $27 $-1 #
+edge $833 -1 -1 $-1 $703 -31.100000000000001 $834 31.100000000000001 $572 $835 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $573 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $573 $836 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0.14999999999999999 0 1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $578 $837 $-1 $838 forward $27 $-1 #
+edge $839 -1 -1 $-1 $840 -3.1000000000000005 $709 -0.60000000000000009 $578 $841 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $579 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $579 $842 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0.14999999999999999 -1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $843 $584 $-1 $844 forward $30 $-1 #
+edge $845 -1 -1 $-1 $715 0.60000000000000009 $846 3.1000000000000005 $584 $847 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $585 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $585 $848 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $590 $849 $-1 $850 forward $30 $-1 #
+edge $851 -1 -1 $-1 $852 -31.100000000000001 $721 31.100000000000001 $590 $853 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $591 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $591 $854 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $855 $596 $-1 $856 forward $33 $-1 #
+edge $857 -1 -1 $-1 $727 0.60000000000000009 $858 3.1000000000000005 $596 $859 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $597 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $597 $860 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $602 $861 $-1 $862 forward $33 $-1 #
+edge $863 -1 -1 $-1 $864 -31.100000000000001 $733 31.100000000000001 $602 $865 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $603 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $603 $866 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $867 $608 $-1 $868 forward $36 $-1 #
+edge $869 -1 -1 $-1 $739 0.60000000000000009 $870 3.1000000000000005 $608 $871 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $609 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $609 $872 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $614 $873 $-1 $874 forward $36 $-1 #
+edge $875 -1 -1 $-1 $876 -31.100000000000001 $745 31.100000000000001 $614 $877 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $615 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $615 $878 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $879 $620 $-1 $880 forward $39 $-1 #
+edge $881 -1 -1 $-1 $751 0.60000000000000009 $882 3.1000000000000005 $620 $883 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $621 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $621 $884 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $626 $885 $-1 $886 forward $39 $-1 #
+edge $887 -1 -1 $-1 $888 -31.100000000000001 $757 31.100000000000001 $626 $889 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $627 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $627 $890 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $891 $632 $-1 $892 forward $497 $-1 #
+coedge $-1 -1 -1 $-1 $632 $891 $-1 $893 forward $497 $-1 #
+edge $894 -1 -1 $-1 $895 -10.300000000000001 $896 10.300000000000001 $632 $897 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $633 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $633 $898 #
+intcurve-curve $-1 -1 -1 $-1 forward { exactcur 0 full nubs 5 periodic 262 
+	0 5 0.041833743207843811 3 0.07908637920067639 2 0.11269379271161004 2 0.14353516858411394 3 
+	0.17243387603081081 3 0.20017576712719587 2 0.22754492128316231 3 0.25536719717518147 3 0.28602890855846502 2 
+	0.31803842798583282 2 0.35119408499980997 2 0.38525781948723742 3 0.45503924627181291 3 0.52510418136195414 3 
+	0.58209317571903774 2 0.63806158363238974 2 0.69345968939945546 2 0.74877845152365374 3 0.83870308643003211 2 
+	0.92918656063229077 3 0.97937730691726066 2 1.0294778600535921 2 1.079433264265238 3 1.1292971288998734 3 
+	1.1695800144471082 3 1.2099270470837515 3 1.2682442596370305 3 1.4211191250842456 2 1.4977407566453724 2 
+	1.5742863502280606 3 1.6866310694982327 3 1.7986792678713543 3 1.8501927457245646 2 1.9017307237847243 3 
+	2.0049306918568117 3 2.076549328526506 3 2.1481331160806709 3 2.1984519785962049 2 2.2487149256689265 3 
+	2.3143985062857437 3 2.3802764413994422 3 2.4464646909538144 2 2.5128200429525398 3 2.6099364193965586 2 
+	2.6581984468654416 2 2.7062832855049024 3 2.7532133355497064 3 2.8002787203027539 3 2.8950369756538343 3 
+	2.9749856131098569 2 3.0548003006831976 3 3.1338126754635969 2 3.1729436514098071 3 3.2119010160651551 3 
+	3.2563014500348793 2 3.3008941950253226 2 3.3458015367869529 2 3.3910549817825224 3 3.4823811483469571 3 
+	3.5739825323230727 3 3.800520148202541 2 3.9129895862929165 2 4.0258035580917779 3 4.184264316306372 3 
+	4.3430943201047834 3 4.5011706934437949 3 4.6582682181445128 3 4.7579978788758099 3 4.8580327741124973 3 
+	4.9583493607890006 2 5.0586654863914777 3 5.3330931071337062 2 5.6066645753442277 2 5.8813124678941113 2 
+	6.1588894291843346 3 6.4143076641684038 3 6.6690977658831914 3 6.9188193081087057 2 7.0404569395261447 2 
+	7.1592911200195264 3 7.2294988498824733 1 7.2649616789038962 2 7.3011034507900296 2 7.3382782849215014 2 
+	7.3768680414760182 3 7.4599733759433029 3 7.48975603579074 2 7.5198757398225071 3 7.5494406112030763 3 
+	7.5775878869399529 2 7.5908824801739954 2 7.6035448247005561 2 7.6155103004050639 2 7.6267394658886678 2 
+	7.6372299344367987 3 7.6470332269935772 3 7.6562763959811928 3 7.6651831208224177 3 7.6740748206280367 3 
+	7.6832769274638535 3 7.6930211178355856 3 7.7034429726167266 2 7.7146018546002919 3 7.7265021457649237 2 
+	7.7391102171593849 2 7.7523665088461362 3 7.7805026225399825 3 7.8101688322892073 3 7.8405280919000058 2 
+	7.8707085755200108 3 7.928344605610401 2 7.9825473110055043 2 8.0340251631011501 2 8.0834332628305123 2 
+	8.1313725688030694 2 8.1783961492815038 3 8.2717532514138092 3 8.4640333271458434 3 8.6634969954313945 3 
+	8.8672073765446875 2 9.0720196384661591 3 9.3763083818622874 2 9.6770302776714274 3 10.27204824228216 3 
+	10.716684503093283 2 11.163128060998849 2 11.614030405437234 3 12.072128358284395 3 12.226501457221902 3 
+	12.379559246156408 3 12.528921673428306 3 12.67239342470995 3 12.764758366332858 2 12.811210930413315 1 
+	12.858691969275664 3 12.907894032180717 2 12.959581093963491 2 13.01459624860548 2 13.073857070861942 3 
+	13.104809852239146 3 13.119743670406459 3 13.133792100603296 3 13.146621183282635 2 13.152501882986497 2 
+	13.158008311223753 2 13.163149914407335 2 13.167964383409323 3 13.172527650592702 3 13.176962194931555 3 
+	13.181432617899711 3 13.186094021842106 3 13.191049968591265 2 13.196355940661089 2 13.202030836689106 2 
+	13.208067809681088 3 13.221118564975354 3 13.235192551652649 3 13.249880673751017 2 13.26473378544109 2 
+	13.279293527952756 3 13.306507433116842 3 13.331721403772999 3 13.355784220572342 3 13.379448373360832 3 
+	13.464134772593756 3 13.551531611187333 3 13.729530735017262 3 13.90537808140345 3 14.079537013216489 3 
+	14.679538121385415 3 14.929538194326021 3 15.354613822486492 1 15.779542690314015 3 15.879466825834767 1 
+	15.979550401969568 3 16.079837873836766 2 16.129830479658359 3 16.179638595818414 3 16.230873143118085 2 
+	16.282162655141981 3 16.385265404894085 3 16.489081710316853 3 16.593086482424475 3 16.75170079235102 2 
+	16.909315780370331 3 16.976260496303283 1 17.043308561008253 2 17.110705455132408 2 17.178782831402973 3 
+	17.242701824747925 3 17.306418444402102 3 17.369182891598975 2 17.400149087600344 2 17.430914825858057 3 
+	17.458383765607405 2 17.485956273885172 3 17.541710004902878 3 17.598258309263997 3 17.655173765668557 3 
+	17.723541810192923 2 17.791378934481902 3 17.858439818481159 2 17.891701850308294 2 17.924885268718675 3 
+	17.999160012761841 3 18.074376687328385 3 18.150452339682509 3 18.226747731388013 3 18.330586445830534 2 
+	18.382014940892024 2 18.43326536600383 3 18.488887421227076 2 18.544733642362715 3 18.600838515334644 2 
+	18.657118266341421 3 18.747907006550392 1 18.838435250707285 3 18.928524459882372 3 19.018277546494527 3 
+	19.088740751385576 3 19.159443859048004 2 19.230321794250589 2 19.301211546862096 3 19.372001756379316 1 
+	19.407341174895375 2 19.442651766168435 3 19.505129170078433 3 19.567749580246272 2 19.63041174092648 2 
+	19.692884201460544 3 19.782535803084599 3 19.873169339781544 3 19.919301544706823 2 19.965307487669964 3 
+	20.010318002714854 3 20.053534317621757 3 20.073494538342434 3 20.093838371758139 3 20.11554598253765 3 
+	20.139721156944429 3 20.150670694442052 1 20.156020127348626 3 20.161090917554159 3 20.165745346098021 3 
+	20.169863358611725 2 20.171693426536855 2 20.173364603771553 2 20.174881940584743 2 20.176263561868332 3 
+	20.178316135111618 3 20.180356228842044 3 20.182588706948525 3 20.185135410355642 3 20.188048262704079 3 
+	20.191336375362894 3 20.19498504731337 2 20.198966278344635 3 20.207778845647582 3 20.217441604212084 3 
+	20.227587428675722 2 20.237833197373238 5 
+	-12.349999999999998 6.8500000000000005 0.64999999999999991 
+	-12.342060373116073 6.8473609077743891 0.64999999999999991 
+	-12.334088633411771 6.8448184259701605 0.64999999999999991 
+	-12.326084731769903 6.8423779165746907 0.64999999999999991 
+	-12.3108933411099 6.8379670797133834 0.64999999999999991 
+	-12.295592398270418 6.8339539609251476 0.64999999999999991 
+	-12.281838280610241 6.8305313596572059 0.64999999999999991 
+	-12.268003669806372 6.8274446969222744 0.64999999999999991 
+	-12.248049928429442 6.8234893328311186 0.64999999999999991 
+	-12.235354938226042 6.8212477905057076 0.64999999999999991 
+	-12.222623119285466 6.8192326060213659 0.64999999999999991 
+	-12.210808254489478 6.8174524306289808 0.64999999999999991 
+	-12.198973874492168 6.8158071645675378 0.64999999999999991 
+	-12.193245889921755 6.815035188644293 0.64999999999999991 
+	-12.182015599570143 6.8135496250005634 0.64999999999999991 
+	-12.170784038914331 6.8120736968089641 0.64999999999999991 
+	-12.159857842002353 6.8106220460731386 0.64999999999999991 
+	-12.148941586403716 6.8090939748573387 0.64999999999999991 
+	-12.138049807537936 6.8074000689781897 0.64999999999999991 
+	-12.127158650053744 6.8055995664141289 0.64999999999999991 
+	-12.116311025964666 6.8035529386139739 0.64999999999999991 
+	-12.110856376191734 6.8024493105164936 0.64999999999999991 
+	-12.099425469056545 6.7999629389373482 0.64999999999999991 
+	-12.088080959560976 6.7971069309182557 0.64999999999999991 
+	-12.075972701358978 6.7938602311745786 0.64999999999999991 
+	-12.063960971928751 6.7902688519769736 0.64999999999999991 
+	-12.045731809723836 6.7843467247604963 0.64999999999999991 
+	-12.033427717894288 6.7800435507014178 0.64999999999999991 
+	-12.01481735589882 6.7731479455835224 0.64999999999999991 
+	-12.002292339397723 6.7682599852102658 0.64999999999999991 
+	-11.98983806947609 6.7631964415899981 0.64999999999999991 
+	-11.970648788745194 6.7552504578395984 0.64999999999999991 
+	-11.951601676307519 6.746966687123698 0.64999999999999991 
+	-11.938854491198796 6.7412832573852777 0.64999999999999991 
+	-11.913389449911222 6.7297147125235792 0.64999999999999991 
+	-11.888041006313202 6.7178928631424171 0.64999999999999991 
+	-11.875358750950618 6.7119326947399127 0.64999999999999991 
+	-11.852372185631889 6.7011009534167698 0.64999999999999991 
+	-11.829364280114468 6.6903146273598368 0.64999999999999991 
+	-11.808909421587153 6.680724375389973 0.64999999999999991 
+	-11.788473972006106 6.6710924720323943 0.64999999999999991 
+	-11.758104720782871 6.6565505195184986 0.64999999999999991 
+	-11.738093806661659 6.6467679635232031 0.64999999999999991 
+	-11.708325400604604 6.6317591572615733 0.64999999999999991 
+	-11.688695729410732 6.6215077046375459 0.64999999999999991 
+	-11.669257021063331 6.6108999169946649 0.64999999999999991 
+	-11.643897838399525 6.5967281797001309 0.64999999999999991 
+	-11.618952625970067 6.5818342969577053 0.64999999999999991 
+	-11.58828920693135 6.5628045048915968 0.64999999999999991 
+	-11.558276063284328 6.5427537948201575 0.64999999999999991 
+	-11.5289278188121 6.5217536972405199 0.64999999999999991 
+	-11.506306839512618 6.5050188373377242 0.64999999999999991 
+	-11.48410254705653 6.4877388262668454 0.64999999999999991 
+	-11.468350122272049 6.4753209515552754 0.64999999999999991 
+	-11.452692476868243 6.4627839563584573 0.64999999999999991 
+	-11.429193901205203 6.4440549547348578 0.64999999999999991 
+	-11.413455410589076 6.4316941536378094 0.64999999999999991 
+	-11.397507714361392 6.4196042824697557 0.64999999999999991 
+	-11.381464879503401 6.4077191545954353 0.64999999999999991 
+	-11.365105811794422 6.3962732186370097 0.64999999999999991 
+	-11.356842246865916 6.3906867773043246 0.64999999999999991 
+	-11.341717607812829 6.3808661078835058 0.64999999999999991 
+	-11.326233023779352 6.3716260694299329 0.64999999999999991 
+	-11.319261463862965 6.3675870140831812 0.64999999999999991 
+	-11.305236534024939 6.3596274231279901 0.64999999999999991 
+	-11.291133278965518 6.3518074511169402 0.64999999999999991 
+	-11.284072293976724 6.347901576792621 0.64999999999999991 
+	-11.266832705130938 6.3382994746150558 0.64999999999999991 
+	-11.249756775196122 6.3284082405689182 0.64999999999999991 
+	-11.239737970623974 6.3224338359424568 0.64999999999999991 
+	-11.203792277984409 6.3002399054159239 0.64999999999999991 
+	-11.169337094047819 6.2757264977803482 0.64999999999999991 
+	-11.133172660653042 6.2473537607487613 0.64999999999999991 
+	-11.099091731693619 6.2164836267079142 0.64999999999999991 
+	-11.056809027201489 6.1721936033242741 0.64999999999999991 
+	-11.036750731131608 6.1490069481193466 0.64999999999999991 
+	-11.017894083962979 6.1248482900153762 0.64999999999999991 
+	-10.995412285275432 6.094471971038649 0.64999999999999991 
+	-10.974921063935213 6.0627012083014389 0.64999999999999991 
+	-10.963448239322766 6.0433581838045836 0.64999999999999991 
+	-10.94197404532088 6.0039172514418908 0.64999999999999991 
+	-10.923404876610519 5.9630283751452335 0.64999999999999991 
+	-10.914863453457642 5.9422902111114535 0.64999999999999991 
+	-10.903471176376847 5.911604280064882 0.64999999999999991 
+	-10.893666689556778 5.8803913575001019 0.64999999999999991 
+	-10.887774808906244 5.8606385596043928 0.64999999999999991 
+	-10.882390118763762 5.8407405666988463 0.64999999999999991 
+	-10.877382336386717 5.8207469238942879 0.64999999999999991 
+	-10.870095813481178 5.7906687729999637 0.64999999999999991 
+	-10.863358316904971 5.7604611423059797 0.64999999999999991 
+	-10.8589748962928 5.7402928671173523 0.64999999999999991 
+	-10.851507862679242 5.7061346850431436 0.64999999999999991 
+	-10.843584774474728 5.672079976710128 0.64999999999999991 
+	-10.840321562060886 5.6581331698443424 0.64999999999999991 
+	-10.833880093315532 5.6302256789837646 0.64999999999999991 
+	-10.827844206233749 5.6022276685037076 0.64999999999999991 
+	-10.824987913187009 5.5881971690129335 0.64999999999999991 
+	-10.820501184899967 5.5642281123708015 0.64999999999999991 
+	-10.816830770790087 5.5401230299818156 0.64999999999999991 
+	-10.81410359677195 5.5201890762688137 0.64999999999999991 
+	-10.812027544291666 5.500171813978894 0.64999999999999991 
+	-10.81070468139168 5.4800939737115915 0.64999999999999991 
+	-10.809644223881513 5.4569236296249546 0.64999999999999991 
+	-10.809726454428233 5.4337254310619141 0.64999999999999991 
+	-10.81012190919607 5.4205888521302796 0.64999999999999991 
+	-10.811572083572763 5.3943092570580378 0.64999999999999991 
+	-10.814257717694005 5.368127015726758 0.64999999999999991 
+	-10.815891470543754 5.3550491324191114 0.64999999999999991 
+	-10.81970359490656 5.3289075988147321 0.64999999999999991 
+	-10.824510538633415 5.3029305367729878 0.64999999999999991 
+	-10.829793966729337 5.2769485830153586 0.64999999999999991 
+	-10.835917381393276 5.2511487891545254 0.64999999999999991 
+	-10.842730410079753 5.2255276115004561 0.64999999999999991 
+	-10.851515049568491 5.1940335538336475 0.64999999999999991 
+	-10.861137154785045 5.1627828934654225 0.64999999999999991 
+	-10.870217268764822 5.1351532742625761 0.64999999999999991 
+	-10.880204049058715 5.1078302229854398 0.64999999999999991 
+	-10.894942115402209 5.0720491036782329 0.64999999999999991 
+	-10.90278572321624 5.0544419956710502 0.64999999999999991 
+	-10.911182618456458 5.0370946283532767 0.64999999999999991 
+	-10.91974717692521 5.0201278415852908 0.64999999999999991 
+	-10.928892459433882 5.0034670467026547 0.64999999999999991 
+	-10.933533468814964 4.9953073252821882 0.64999999999999991 
+	-10.943042093109252 4.9790889510315477 0.64999999999999991 
+	-10.952910465780256 4.9630869176027934 0.64999999999999991 
+	-10.957925007896769 4.9551202630718638 0.64999999999999991 
+	-10.973207220177112 4.9312239509936466 0.64999999999999991 
+	-10.988864255405076 4.9075701139349386 0.64999999999999991 
+	-10.999364449797607 4.8917945394080711 0.64999999999999991 
+	-11.018575016875644 4.8626046025554723 0.64999999999999991 
+	-11.037093950099525 4.8329720148503945 0.64999999999999991 
+	-11.053841904543301 4.8057602110829043 0.64999999999999991 
+	-11.070421205414167 4.7784450758253492 0.64999999999999991 
+	-11.087242019461968 4.7512778791005879 0.64999999999999991 
+	-11.104186664744965 4.7244065080078919 0.64999999999999991 
+	-11.121778503292713 4.6979543662987409 0.64999999999999991 
+	-11.13517840086897 4.6784870216224927 0.64999999999999991 
+	-11.14916103686863 4.6594251911748481 0.64999999999999991 
+	-11.163882059198116 4.6409388916969219 0.64999999999999991 
+	-11.173784426101317 4.6288595105257935 0.64999999999999991 
+	-11.184049835398628 4.6170871195550456 0.64999999999999991 
+	-11.189266226832125 4.6112975506382954 0.64999999999999991 
+	-11.200640217349392 4.5991046697021725 0.64999999999999991 
+	-11.212483391028488 4.5873657993690689 0.64999999999999991 
+	-11.2253751942938 4.5750876621696186 0.64999999999999991 
+	-11.238726865653366 4.5633063741776043 0.64999999999999991 
+	-11.259402490703739 4.5462783534759064 0.64999999999999991 
+	-11.273583109998171 4.5353460468918803 0.64999999999999991 
+	-11.295384852781993 4.5194966552352005 0.64999999999999991 
+	-11.310247473963081 4.5092794869645081 0.64999999999999991 
+	-11.325333880616093 4.499399765610014 0.64999999999999991 
+	-11.348339823763883 4.4846704753662303 0.64999999999999991 
+	-11.371757064213359 4.4705970804014816 0.64999999999999991 
+	-11.387555389921321 4.4614263391263487 0.64999999999999991 
+	-11.419410050230859 4.4434298689609433 0.64999999999999991 
+	-11.451560370800177 4.425967057929145 0.64999999999999991 
+	-11.467702217747703 4.4173027292121576 0.64999999999999991 
+	-11.523814713167159 4.3873044465925188 0.64999999999999991 
+	-11.579745961470422 4.356968546325418 0.64999999999999991 
+	-11.639306967861117 4.3245738245643954 0.64999999999999991 
+	-11.698980896024757 4.2923814940057872 0.64999999999999991 
+	-11.77898324249831 4.2503637748787639 0.64999999999999991 
+	-11.81906295472719 4.2297754866493893 0.64999999999999991 
+	-11.859393339830799 4.2096837024066458 0.64999999999999991 
+	-11.908124670043762 4.1858293225987699 0.64999999999999991 
+	-11.957291057864307 4.1628813297421363 0.64999999999999991 
+	-11.986176077743352 4.1498324188477618 0.64999999999999991 
+	-12.044373350350025 4.1245144038826123 0.64999999999999991 
+	-12.103335654841185 4.1010330138818691 0.64999999999999991 
+	-12.133053901118565 4.0897926581114579 0.64999999999999991 
+	-12.192769261327431 4.0685075919543339 0.64999999999999991 
+	-12.253328119511099 4.0497569649156002 0.64999999999999991 
+	-12.283746785677806 4.041097637008467 0.64999999999999991 
+	-12.344807402699296 4.0253528551730806 0.64999999999999991 
+	-12.406628268027635 4.0129253959169571 0.64999999999999991 
+	-12.437616682016756 4.0076256273617883 0.64999999999999991 
+	-12.488520259193049 4.0005446538782099 0.64999999999999991 
+	-12.539716049599125 3.9962353157723975 0.64999999999999991 
+	-12.559624293274343 3.9949420253689154 0.64999999999999991 
+	-12.599536082890218 3.993032568683283 0.64999999999999991 
+	-12.639487327431759 3.9923274068622341 0.64999999999999991 
+	-12.659495958619768 3.9922359875773754 0.64999999999999991 
+	-12.699567068862802 3.9924966297509479 0.64999999999999991 
+	-12.739626770457132 3.9934880275571518 0.64999999999999991 
+	-12.77973376740583 3.9947677202426504 0.64999999999999991 
+	-12.819825049735428 3.9964650498544487 0.64999999999999991 
+	-12.859910839009146 3.9982697461647985 0.64999999999999991 
+	-12.934785954282063 4.0015966650844659 0.64999999999999991 
+	-13.009690839591062 4.0042128701211466 0.64999999999999991 
+	-13.119249667612046 4.0073170215936749 0.64999999999999991 
+	-13.228840271048888 4.0090694882663644 0.64999999999999991 
+	-13.393370035035876 4.0099601428371372 0.64999999999999991 
+	-13.503015677533813 4.0094967674874056 0.64999999999999991 
+	-13.668164607226739 4.0075276910216351 0.64999999999999991 
+	-13.778591556172877 4.0054661571654355 0.64999999999999991 
+	-13.889006607022242 4.0028823165789325 0.64999999999999991 
+	-13.995571716592266 4.0001889113008202 0.64999999999999991 
+	-14.102129263044798 3.9972118395878278 0.64999999999999991 
+	-14.153192769353343 3.9957796235007672 0.64999999999999991 
+	-14.255197336341062 3.9930197067765349 0.64999999999999991 
+	-14.357212691499132 3.9906924964301145 0.64999999999999991 
+	-14.408161374154179 3.9896957079633002 0.64999999999999991 
+	-14.509053754153854 3.9881663610130786 0.64999999999999991 
+	-14.609956907393165 3.9877766677575046 0.64999999999999991 
+	-14.68423098667261 3.9879979191591883 0.64999999999999991 
+	-14.758500198907889 3.9891270801569889 0.64999999999999991 
+	-14.856493340044373 3.9921766762241022 0.64999999999999991 
+	-14.904547096567619 3.9942087895353442 0.64999999999999991 
+	-14.952569396818436 3.9968663657836965 0.64999999999999991 
+	-14.990305677376114 3.9992173935610116 0.64999999999999991 
+	-15.035083667683995 4.0025439995630698 0.64999999999999991 
+	-15.056156654543749 4.0041443259476317 0.64999999999999991 
+	-15.084453090352561 4.0061066711826019 0.64999999999999991 
+	-15.112779736787292 4.0075524985655671 0.64999999999999991 
+	-15.134519810928783 4.008397735231525 0.64999999999999991 
+	-15.149179605795911 4.0087655245902676 0.64999999999999991 
+	-15.171561042922438 4.0089663751806857 0.64999999999999991 
+	-15.186715106985496 4.0088348533812264 0.64999999999999991 
+	-15.201863126911604 4.0084117667054713 0.64999999999999991 
+	-15.22618584303736 4.0074866211141078 0.64999999999999991 
+	-15.250470463802696 4.0057733315650239 0.64999999999999991 
+	-15.267025001030003 4.0042219169366247 0.64999999999999991 
+	-15.289455685056602 4.001602233795432 0.64999999999999991 
+	-15.311792588552184 3.9983093830597229 0.64999999999999991 
+	-15.323635016096709 3.9964951300725144 0.64999999999999991 
+	-15.335463269881391 3.994590775188493 0.64999999999999991 
+	-15.347290643390643 3.9926818769757664 0.64999999999999991 
+	-15.359078016610336 3.9907978813424996 0.64999999999999991 
+	-15.37087787941282 3.9889937793437147 0.64999999999999991 
+	-15.376727598467561 3.988130407935107 0.64999999999999991 
+	-15.388158621487364 3.9865267288757509 0.64999999999999991 
+	-15.399617762764546 3.9851385665383967 0.64999999999999991 
+	-15.407857632778732 3.9842360740367373 0.64999999999999991 
+	-15.416115940721838 3.9835053942829917 0.64999999999999991 
+	-15.426918645125689 3.9828671640925202 0.64999999999999991 
+	-15.432107019227939 3.9826660722597858 0.64999999999999991 
+	-15.439691582055531 3.982560942751054 0.64999999999999991 
+	-15.444618174232861 3.9826212919815513 0.64999999999999991 
+	-15.451783781174452 3.9829391893409234 0.64999999999999991 
+	-15.45641084604722 3.9832998948195639 0.64999999999999991 
+	-15.463102109968514 3.9841002715590768 0.64999999999999991 
+	-15.467392541311035 3.9848009712944243 0.64999999999999991 
+	-15.471638690927406 3.9857270970059231 0.64999999999999991 
+	-15.475580103746321 3.986704437330586 0.64999999999999991 
+	-15.479454203010899 3.9879206602860267 0.64999999999999991 
+	-15.481306239768852 3.9885687366339773 0.64999999999999991 
+	-15.484857186776221 3.9899558263360335 0.64999999999999991 
+	-15.488291400438825 3.9916101895035712 0.64999999999999991 
+	-15.489925019628501 3.9924800951785722 0.64999999999999991 
+	-15.493054475664657 3.994327368790783 0.64999999999999991 
+	-15.496000071865303 3.9964551124522418 0.64999999999999991 
+	-15.497394369147383 3.997568516502922 0.64999999999999991 
+	-15.500063009519138 3.9999316320594662 0.64999999999999991 
+	-15.502471040772711 4.0025597921407297 0.64999999999999991 
+	-15.503605851652619 4.0039328632900393 0.64999999999999991 
+	-15.505775195809242 4.0068340432468919 0.64999999999999991 
+	-15.507665498881966 4.0099246102848518 0.64999999999999991 
+	-15.508556172137467 4.0115376965033862 0.64999999999999991 
+	-15.510251594012232 4.0149295268819882 0.64999999999999991 
+	-15.511678665938053 4.0184430605054606 0.64999999999999991 
+	-15.512346313761658 4.0202755967847521 0.64999999999999991 
+	-15.513601554646719 4.0241104289868188 0.64999999999999991 
+	-15.514615325010741 4.0280163176707111 0.64999999999999991 
+	-15.515578745649055 4.0322257315827432 0.64999999999999991 
+	-15.516313425983036 4.0364824726840505 0.64999999999999991 
+	-15.516860163907698 4.0407651431681639 0.64999999999999991 
+	-15.517350389001351 4.0453516543047563 0.64999999999999991 
+	-15.517663700382361 4.0499537467805293 0.64999999999999991 
+	-15.517909784967635 4.0548501389316538 0.64999999999999991 
+	-15.517993917245036 4.0597525914791035 0.64999999999999991 
+	-15.517920066952833 4.0673059951622443 0.64999999999999991 
+	-15.517736349746698 4.0724765754070873 0.64999999999999991 
+	-15.517444047081664 4.0776415250819689 0.64999999999999991 
+	-15.516895656883719 4.0859021491367749 0.64999999999999991 
+	-15.516118616168072 4.0941455555912407 0.64999999999999991 
+	-15.515507230190828 4.0997400571191953 0.64999999999999991 
+	-15.51411195892593 4.1112165771116116 0.64999999999999991 
+	-15.512484907727842 4.1226626001825748 0.64999999999999991 
+	-15.511603760653447 4.1285301990611165 0.64999999999999991 
+	-15.509750993814002 4.1403915631889765 0.64999999999999991 
+	-15.507799844418432 4.1522371461041905 0.64999999999999991 
+	-15.505804179883796 4.1641794753548043 0.64999999999999991 
+	-15.503792718230994 4.1761192161061835 0.64999999999999991 
+	-15.501847159446623 4.1880698942194936 0.64999999999999991 
+	-15.499102861438914 4.2054178537871172 0.64999999999999991 
+	-15.496689962478644 4.2228160121867528 0.64999999999999991 
+	-15.493900342657621 4.2450116312552613 0.64999999999999991 
+	-15.491669569333496 4.2672726470477658 0.64999999999999991 
+	-15.489236975341385 4.2998485594882823 0.64999999999999991 
+	-15.488165204084229 4.3209613418972133 0.64999999999999991 
+	-15.487304220225958 4.3519696561646732 0.64999999999999991 
+	-15.487172998659911 4.3721491867650908 0.64999999999999991 
+	-15.487554930394705 4.4019134705356739 0.64999999999999991 
+	-15.488144819959007 4.4213756746312081 0.64999999999999991 
+	-15.489440353720362 4.4502216770947145 0.64999999999999991 
+	-15.490531337463043 4.4691836253963562 0.64999999999999991 
+	-15.491792079549899 4.4881345011336453 0.64999999999999991 
+	-15.493752551084409 4.516142189968817 0.64999999999999991 
+	-15.495915855499245 4.5441351863551533 0.64999999999999991 
+	-15.497368753298431 4.5627497132826349 0.64999999999999991 
+	-15.501607519903189 4.6197212836395778 0.64999999999999991 
+	-15.504540072668743 4.676780206202614 0.64999999999999991 
+	-15.506015016187657 4.7152113516787919 0.64999999999999991 
+	-15.508155443928338 4.7935342772621752 0.64999999999999991 
+	-15.5088049881311 4.8718840122182945 0.64999999999999991 
+	-15.508821833454473 4.9117779404452131 0.64999999999999991 
+	-15.508345468981094 4.9924123197652897 0.64999999999999991 
+	-15.507067009533525 5.0730380127563093 0.64999999999999991 
+	-15.505480849440957 5.1547274332705104 0.64999999999999991 
+	-15.5035289286219 5.2364088338693362 0.64999999999999991 
+	-15.501637761669997 5.3180913745735401 0.64999999999999991 
+	-15.499449266188247 5.4198885135725998 0.64999999999999991 
+	-15.498021427094127 5.5216997182163681 0.64999999999999991 
+	-15.49680653367351 5.6426968432718692 0.64999999999999991 
+	-15.496425558289108 5.7636997438581261 0.64999999999999991 
+	-15.496618470626043 5.8847020373413708 0.64999999999999991 
+	-15.49722666185378 6.0638491117522193 0.64999999999999991 
+	-15.498489228798459 6.2429931621200794 0.64999999999999991 
+	-15.499349198350931 6.361993082457877 0.64999999999999991 
+	-15.500392928621217 6.5699234797210444 0.64999999999999991 
+	-15.499776167320409 6.7778546227997527 0.64999999999999991 
+	-15.498787321871013 6.9560682710050754 0.64999999999999991 
+	-15.497180395121969 7.1342772375745511 0.64999999999999991 
+	-15.494740138948682 7.4026624162067112 0.64999999999999991 
+	-15.493399490602879 7.5821272898627203 0.64999999999999991 
+	-15.49293984472164 7.7615967553127785 0.64999999999999991 
+	-15.493067820786216 7.9433982319244389 0.64999999999999991 
+	-15.494665713316884 8.1251927783760394 0.64999999999999991 
+	-15.495914837890012 8.2168054802283166 0.64999999999999991 
+	-15.498265869208158 8.3392794848569984 0.64999999999999991 
+	-15.501632671647442 8.4617276853471104 0.64999999999999991 
+	-15.502505308093433 8.4925899187412934 0.64999999999999991 
+	-15.504213486855434 8.5540524630846289 0.64999999999999991 
+	-15.505701781630719 8.6155207232154147 0.64999999999999991 
+	-15.506348701368115 8.6461256631725885 0.64999999999999991 
+	-15.507360053462346 8.7066023105633228 0.64999999999999991 
+	-15.50766391951575 8.7670865999382279 0.64999999999999991 
+	-15.507598467857168 8.7969601705149856 0.64999999999999991 
+	-15.506954455985255 8.8555268286907243 0.64999999999999991 
+	-15.505080170003033 8.9140667705396837 0.64999999999999991 
+	-15.503815915302635 8.9427362972522779 0.64999999999999991 
+	-15.501072631953129 8.9898303888497892 0.64999999999999991 
+	-15.497037371326972 9.0368275374673939 0.64999999999999991 
+	-15.494495403507404 9.0644738933680848 0.64999999999999991 
+	-15.491064453303121 9.1015763402037528 0.64999999999999991 
+	-15.488199218137211 9.1387270757054839 0.64999999999999991 
+	-15.486995807072294 9.1574773281330479 0.64999999999999991 
+	-15.485647124427199 9.1860739475456654 0.64999999999999991 
+	-15.485107095447461 9.2054039487011323 0.64999999999999991 
+	-15.484759172307612 9.2255804345696468 0.64999999999999991 
+	-15.484882738967727 9.245761885418883 0.64999999999999991 
+	-15.48586762012215 9.2769308595751383 0.64999999999999991 
+	-15.487129963557386 9.2982394623364453 0.64999999999999991 
+	-15.490024423783957 9.3313103390925889 0.64999999999999991 
+	-15.492699396747373 9.3540151474454305 0.64999999999999991 
+	-15.496032962965639 9.3766293730671055 0.64999999999999991 
+	-15.498926244393004 9.3944404498631897 0.64999999999999991 
+	-15.502203932716604 9.4121834617661406 0.64999999999999991 
+	-15.503333306498117 9.418269863231135 0.64999999999999991 
+	-15.504967379943725 9.4273011863070639 0.64999999999999991 
+	-15.50644271570043 9.4363592948289146 0.64999999999999991 
+	-15.506900947238098 9.4393108193202089 0.64999999999999991 
+	-15.507736443889961 9.4450471598462968 0.64999999999999991 
+	-15.50843827041124 9.4508013358304446 0.64999999999999991 
+	-15.508740535795031 9.4535950845471515 0.64999999999999991 
+	-15.509231062936077 9.4589493008800609 0.64999999999999991 
+	-15.509510613685002 9.4643184787793828 0.64999999999999991 
+	-15.509621913726029 9.4680600652801203 0.64999999999999991 
+	-15.509587152705844 9.4718052918510001 0.64999999999999991 
+	-15.509280335368452 9.4766398368157354 0.64999999999999991 
+	-15.509053376732886 9.4789071785121255 0.64999999999999991 
+	-15.508577628601298 9.4821796388452473 0.64999999999999991 
+	-15.508174026276777 9.4842725695796588 0.64999999999999991 
+	-15.50741743762153 9.4872728112222191 0.64999999999999991 
+	-15.506817878085624 9.4891745473283997 0.64999999999999991 
+	-15.506085721909685 9.4910280811569905 0.64999999999999991 
+	-15.505331032943673 9.4927468100136565 0.64999999999999991 
+	-15.504441852792905 9.4943997899465593 0.64999999999999991 
+	-15.503975601712316 9.4951856978017997 0.64999999999999991 
+	-15.502987322393423 9.4966920592810453 0.64999999999999991 
+	-15.501861857433578 9.4980987355564359 0.64999999999999991 
+	-15.50127353730548 9.4987644307829875 0.64999999999999991 
+	-15.500026017567311 9.5000388314594453 0.64999999999999991 
+	-15.498653315541365 9.5011773521035501 0.64999999999999991 
+	-15.497936145273759 9.5017136576645314 0.64999999999999991 
+	-15.496421881753442 9.5027379365883995 0.64999999999999991 
+	-15.494821262241214 9.5036215249682883 0.64999999999999991 
+	-15.493985632658397 9.5040372112882636 0.64999999999999991 
+	-15.492230136476572 9.5048263495579235 0.64999999999999991 
+	-15.49042092508677 9.5054835267657545 0.64999999999999991 
+	-15.488467470146251 9.5061177080703878 0.64999999999999991 
+	-15.486476260123986 9.5066248102259614 0.64999999999999991 
+	-15.48334915649906 9.5072486237211979 0.64999999999999991 
+	-15.48117491736236 9.5075691681980761 0.64999999999999991 
+	-15.477789414281617 9.5079276880962915 0.64999999999999991 
+	-15.475451166222747 9.5080828509558337 0.64999999999999991 
+	-15.473109830911721 9.5081636216217973 0.64999999999999991 
+	-15.469292683347813 9.5082388726545801 0.64999999999999991 
+	-15.465474516278242 9.5081521820782484 0.64999999999999991 
+	-15.462866425789066 9.5080336852428626 0.64999999999999991 
+	-15.457451962265864 9.5076863196226871 0.64999999999999991 
+	-15.452051321938551 9.5071654501728098 0.64999999999999991 
+	-15.449253042991675 9.5068589939102957 0.64999999999999991 
+	-15.443541377287374 9.5061738902462309 0.64999999999999991 
+	-15.437841713467826 9.5053950995284087 0.64999999999999991 
+	-15.431992647994377 9.5045604953171399 0.64999999999999991 
+	-15.426150402709425 9.503679478788424 0.64999999999999991 
+	-15.417429178601825 9.502362117747305 0.64999999999999991 
+	-15.411609533955488 9.5015031572774387 0.64999999999999991 
+	-15.405780509096445 9.5007102217955932 0.64999999999999991 
+	-15.397493114151676 9.4996480553197724 0.64999999999999991 
+	-15.389176499894791 9.4988344161181359 0.64999999999999991 
+	-15.383748764368878 9.4984111741806654 0.64999999999999991 
+	-15.373279284183212 9.4977992260543189 0.64999999999999991 
+	-15.362794946977189 9.4975585994003389 0.64999999999999991 
+	-15.35775145096332 9.4975243881763518 0.64999999999999991 
+	-15.347895629189928 9.4976018827722797 0.64999999999999991 
+	-15.33804470439707 9.4979199339722236 0.64999999999999991 
+	-15.333236207854782 9.4981231948828935 0.64999999999999991 
+	-15.323702500789061 9.4985975249880905 0.64999999999999991 
+	-15.314173635316426 9.4991607443703678 0.64999999999999991 
+	-15.309449640060553 9.4994492338131806 0.64999999999999991 
+	-15.28781844319079 9.5007497347976084 0.64999999999999991 
+	-15.266166771355042 9.5016875102572325 0.64999999999999991 
+	-15.249237166780638 9.5022328328841787 0.64999999999999991 
+	-15.214828340770673 9.5030162671774203 0.64999999999999991 
+	-15.180411263613113 9.5032416187857542 0.64999999999999991 
+	-15.162931517579466 9.5032391335306539 0.64999999999999991 
+	-15.109852676974143 9.5029471721605177 0.64999999999999991 
+	-15.056780231013228 9.5019907252050402 0.64999999999999991 
+	-15.021189291938278 9.5012325444671326 0.64999999999999991 
+	-14.950433297645869 9.499798128619112 0.64999999999999991 
+	-14.879665356952653 9.4991959371637371 0.64999999999999991 
+	-14.844495737780036 9.499066415341435 0.64999999999999991 
+	-14.774494271559025 9.4990656004935481 0.64999999999999991 
+	-14.704493639658207 9.4994065459423638 0.64999999999999991 
+	-14.66966254542341 9.4996192112545739 0.64999999999999991 
+	-14.514833286381446 9.5005616529548611 0.64999999999999991 
+	-14.359999887081713 9.5006496247028096 0.64999999999999991 
+	-14.240000093193373 9.5004342532493773 0.64999999999999991 
+	-14.070000228002261 9.500025140461787 0.64999999999999991 
+	-13.900000014136538 9.4999036586931247 0.64999999999999991 
+	-13.849999985844693 9.499898250495372 0.64999999999999991 
+	-13.714984824937105 9.4999801786017617 0.64999999999999991 
+	-13.494984574330257 9.5006016305295056 0.64999999999999991 
+	-13.32498532160308 9.5012577770072824 0.64999999999999991 
+	-13.154983131744956 9.5014956696870811 0.64999999999999991 
+	-12.964997972872641 9.5006265427201182 0.64999999999999991 
+	-12.840016079045007 9.4994567942505945 0.64999999999999991 
+	-12.800015952713295 9.4991305643312103 0.64999999999999991 
+	-12.760012316515422 9.4990953432822636 0.64999999999999991 
+	-12.699955906003723 9.4998384945961867 0.64999999999999991 
+	-12.659896744758147 9.5009837245763009 0.64999999999999991 
+	-12.629855557472229 9.5018866503558677 0.64999999999999991 
+	-12.599803122994278 9.5025627049433226 0.64999999999999991 
+	-12.569745787562731 9.5025590880609538 0.64999999999999991 
+	-12.549785320544384 9.5023728075323941 0.64999999999999991 
+	-12.529833675119256 9.5017511658883027 0.64999999999999991 
+	-12.519880406897158 9.5013155616471661 0.64999999999999991 
+	-12.499703329035633 9.5001427901927613 0.64999999999999991 
+	-12.479574931063887 9.4983142488886951 0.64999999999999991 
+	-12.459182855614976 9.4961361349450044 0.64999999999999991 
+	-12.438863444436937 9.4933433355725754 0.64999999999999991 
+	-12.418630717151256 9.4899994056381836 0.64999999999999991 
+	-12.388230525245344 9.4845729432574348 0.64999999999999991 
+	-12.358041145181573 9.4780427652157329 0.64999999999999991 
+	-12.337978836882275 9.4732549954414029 0.64999999999999991 
+	-12.297902095526275 9.4629170056102332 0.64999999999999991 
+	-12.258160880066679 9.4513558390186514 0.64999999999999991 
+	-12.238296224362131 9.4453085062715729 0.64999999999999991 
+	-12.198650364286678 9.4328237535299984 0.64999999999999991 
+	-12.159177421335858 9.4198026040037739 0.64999999999999991 
+	-12.13944968491441 9.4132076586824258 0.64999999999999991 
+	-12.089656194357886 9.3964934013017825 0.64999999999999991 
+	-12.039796696628791 9.379976815126378 0.64999999999999991 
+	-11.979733647363389 9.3601661759180228 0.64999999999999991 
+	-11.919664528078091 9.3403733638418238 0.64999999999999991 
+	-11.859681372525539 9.3203212034561282 0.64999999999999991 
+	-11.817133574563627 9.305940384225508 0.64999999999999991 
+	-11.762003060589723 9.2869129717901338 0.64999999999999991 
+	-11.736723307407367 9.2780175857321474 0.64999999999999991 
+	-11.698867310172464 9.2642520295962889 0.64999999999999991 
+	-11.661324124576499 9.2496530540604383 0.64999999999999991 
+	-11.623855382281288 9.2342608284950281 0.64999999999999991 
+	-11.599011201818637 9.2234368925759433 0.64999999999999991 
+	-11.574445809690641 9.2119985168386513 0.64999999999999991 
+	-11.550662867769326 9.2005340605083443 0.64999999999999991 
+	-11.527204679604324 9.1884196532788618 0.64999999999999991 
+	-11.51593537015345 9.1823794192514701 0.64999999999999991 
+	-11.493645541766934 9.1699274015792263 0.64999999999999991 
+	-11.471865012964592 9.1566046336517672 0.64999999999999991 
+	-11.46113975505784 9.1497143685440676 0.64999999999999991 
+	-11.44019312170493 9.1355148637093002 0.64999999999999991 
+	-11.42005681573908 9.1201883486698421 0.64999999999999991 
+	-11.405478867120305 9.1083832186050309 0.64999999999999991 
+	-11.391500203473207 9.0958618685417179 0.64999999999999991 
+	-11.373932793134756 9.0782076868266941 0.64999999999999991 
+	-11.365572001962121 9.0691135427798883 0.64999999999999991 
+	-11.357611138739973 9.0596713766836316 0.64999999999999991 
+	-11.35030152459958 9.0505998549306987 0.64999999999999991 
+	-11.343394226579637 9.0412191500060253 0.64999999999999991 
+	-11.337039959893971 9.0322267154734064 0.64999999999999991 
+	-11.331021156051357 9.0230042558170105 0.64999999999999991 
+	-11.325306050080965 9.0135936493940676 0.64999999999999991 
+	-11.316870705497788 8.9992190329338033 0.64999999999999991 
+	-11.309046795940851 8.9844969972262732 0.64999999999999991 
+	-11.304046204131634 8.9745268924524293 0.64999999999999991 
+	-11.294360241195601 8.9542595917504073 0.64999999999999991 
+	-11.285285289031627 8.9337113607115981 0.64999999999999991 
+	-11.280827405453103 8.9233169421095901 0.64999999999999991 
+	-11.272021986427667 8.9024021310958616 0.64999999999999991 
+	-11.263329541323049 8.8814401137652936 0.64999999999999991 
+	-11.258955486754203 8.870931064487781 0.64999999999999991 
+	-11.249205548001481 8.8478479348792085 0.64999999999999991 
+	-11.238986466338933 8.8249681086967477 0.64999999999999991 
+	-11.227690111549983 8.8001794165212868 0.64999999999999991 
+	-11.216200832504811 8.7754796176935841 0.64999999999999991 
+	-11.204881352545538 8.7507015987982264 0.64999999999999991 
+	-11.19384552483119 8.7260805077591872 0.64999999999999991 
+	-11.183352811204678 8.7012231434689511 0.64999999999999991 
+	-11.175821397862791 8.6826220281484652 0.64999999999999991 
+	-11.168811412489649 8.6638125466638538 0.64999999999999991 
+	-11.160419336548831 8.6384613132478911 0.64999999999999991 
+	-11.156578463175698 8.6257356059227668 0.64999999999999991 
+	-11.153127823836691 8.6129000732402332 0.64999999999999991 
+	-11.147884374395808 8.5920546497174168 0.64999999999999991 
+	-11.143800365236913 8.5709385805852936 0.64999999999999991 
+	-11.141501439527406 8.5562508088596232 0.64999999999999991 
+	-11.13785513570572 8.5265617104284601 0.64999999999999991 
+	-11.136035563549786 8.4967045763048219 0.64999999999999991 
+	-11.1355446342695 8.4816620869727473 0.64999999999999991 
+	-11.135335623031551 8.4513960417954177 0.64999999999999991 
+	-11.136552184979724 8.4211535436362439 0.64999999999999991 
+	-11.137488413516401 8.4059631757478694 0.64999999999999991 
+	-11.139947217524568 8.3755837806396123 0.64999999999999991 
+	-11.143453131682008 8.3453073289533641 0.64999999999999991 
+	-11.145440467837474 8.3301761615162704 0.64999999999999991 
+	-11.150613846334327 8.2945202036583119 0.64999999999999991 
+	-11.156774928055381 8.2590194276496298 0.64999999999999991 
+	-11.16266937435563 8.2285218720261728 0.64999999999999991 
+	-11.169582331531604 8.1982303533259753 0.64999999999999991 
+	-11.18041307162412 8.1583666113927329 0.64999999999999991 
+	-11.186365827408896 8.1387059327108933 0.64999999999999991 
+	-11.192942739451098 8.1192479651115121 0.64999999999999991 
+	-11.200126127836032 8.0991132272948008 0.64999999999999991 
+	-11.208038796223114 8.0792531352640449 0.64999999999999991 
+	-11.216652385393523 8.058686275796612 0.64999999999999991 
+	-11.22591832374582 8.0384026505371757 0.64999999999999991 
+	-11.235701042158251 8.0183676690408348 0.64999999999999991 
+	-11.245753273412184 7.998359594229723 0.64999999999999991 
+	-11.256198070203556 7.9785536082349893 0.64999999999999991 
+	-11.266849047326541 7.9587595308674235 0.64999999999999991 
+	-11.277771388387539 7.9391137868273454 0.64999999999999991 
+	-11.288847654888055 7.919555331638616 0.64999999999999991 
+	-11.303405842343174 7.8939970500141019 0.64999999999999991 
+	-11.327037582558205 7.8527704133993108 0.64999999999999991 
+	-11.345285407844482 7.8214315402507939 0.64999999999999991 
+	-11.363962061676293 7.7903412904039842 0.64999999999999991 
+	-11.392878398541402 7.744398518758298 0.64999999999999991 
+	-11.412860823658452 7.7143019755334041 0.64999999999999991 
+	-11.423036949401901 7.6994297670534042 0.64999999999999991 
+	-11.443818127661615 7.6700652310639645 0.64999999999999991 
+	-11.465621028160943 7.6414511808469285 0.64999999999999991 
+	-11.476778801895691 7.627383306425374 0.64999999999999991 
+	-11.497226012785664 7.6027007938789053 0.64999999999999991 
+	-11.518667933863846 7.5788816839556858 0.64999999999999991 
+	-11.528261685061345 7.5685561556478191 0.64999999999999991 
+	-11.54775566428593 7.5481306922421503 0.64999999999999991 
+	-11.567697762115223 7.5281424911799135 0.64999999999999991 
+	-11.587872856691526 7.5082722525325849 0.64999999999999991 
+	-11.608303064047242 7.488664699013837 0.64999999999999991 
+	-11.639072981525793 7.4593568843527454 0.64999999999999991 
+	-11.659589473389062 7.439786089492646 0.64999999999999991 
+	-11.679912738494977 7.4200144238029999 0.64999999999999991 
+	-11.700081268235053 7.4001088663696866 0.64999999999999991 
+	-11.724804155062142 7.374764716625041 0.64999999999999991 
+	-11.739524651120846 7.3594741636025471 0.64999999999999991 
+	-11.759244864867515 7.3391895816873234 0.64999999999999991 
+	-11.779405404787976 7.3193435225707297 0.64999999999999991 
+	-11.789634094255707 7.3095941483542326 0.64999999999999991 
+	-11.803917442065419 7.2962326807884272 0.64999999999999991 
+	-11.818589344021674 7.2832955214152593 0.64999999999999991 
+	-11.828103591690979 7.2751917822497054 0.64999999999999991 
+	-11.847400946064354 7.259263501805072 0.64999999999999991 
+	-11.867131462553317 7.2438750233096911 0.64999999999999991 
+	-11.887077299904725 7.2287060666283818 0.64999999999999991 
+	-11.907339662459584 7.2139615179710344 0.64999999999999991 
+	-11.938025163611215 7.1923154635898001 0.64999999999999991 
+	-11.958641385209877 7.1781257002498311 0.64999999999999991 
+	-11.979331068986827 7.1640443822762894 0.64999999999999991 
+	-12.004500966845843 7.1469521105133937 0.64999999999999991 
+	-12.029647120995143 7.1298249168622929 0.64999999999999991 
+	-12.044473801164163 7.1197419890709233 0.64999999999999991 
+	-12.074336784351836 7.0995348018734834 0.64999999999999991 
+	-12.104353970077366 7.0795573856872149 0.64999999999999991 
+	-12.119498441647266 7.0695955574302882 0.64999999999999991 
+	-12.142453291833906 7.0547188283126534 0.64999999999999991 
+	-12.165584788105175 7.0401194821655659 0.64999999999999991 
+	-12.181190954008066 7.0303202859294487 0.64999999999999991 
+	-12.196811261796768 7.0205435127801428 0.64999999999999991 
+	-12.212382013315523 7.010687943707552 0.64999999999999991 
+	-12.227722759158272 7.0008882886726829 0.64999999999999991 
+	-12.242946253386631 6.9909074852958373 0.64999999999999991 
+	-12.250437137066164 6.9859143363394258 0.64999999999999991 
+	-12.265026623671918 6.9759871131491185 0.64999999999999991 
+	-12.27938095047768 6.9657229644506424 0.64999999999999991 
+	-12.286343796923813 6.9605999983874476 0.64999999999999991 
+	-12.296401324480552 6.9529477645965896 0.64999999999999991 
+	-12.306237389758383 6.9450158347758189 0.64999999999999991 
+	-12.3093315079809 6.9424934139724384 0.64999999999999991 
+	-12.315573621603171 6.937393100873785 0.64999999999999991 
+	-12.32184434753059 6.9323280054040222 0.64999999999999991 
+	-12.325027246869904 6.929793160762765 0.64999999999999991 
+	-12.331661714355871 6.9246231365082984 0.64999999999999991 
+	-12.338434979429376 6.9196361633450474 0.64999999999999991 
+	-12.341975511125973 6.9171218066927374 0.64999999999999991 
+	-12.349558222163513 6.9119502949021463 0.64999999999999991 
+	-12.357350469182933 6.9070994374446961 0.64999999999999991 
+	-12.361514292349696 6.9046383386044514 0.64999999999999991 
+	-12.367642753111234 6.9012009901832965 0.64999999999999991 
+	-12.374825401903063 6.8974670599364334 0.64999999999999991 
+	-12.377726874305061 6.8959816035522756 0.64999999999999991 
+	-12.380624426173508 6.8944876060366163 0.64999999999999991 
+	-12.384392154852723 6.8924697665198522 0.64999999999999991 
+	-12.386216028157076 6.8914613457978504 0.64999999999999991 
+	-12.387099600455347 6.8909634383811689 0.64999999999999991 
+	-12.388784646752981 6.8899916230379414 0.64999999999999991 
+	-12.390445490713248 6.8889790484858775 0.64999999999999991 
+	-12.391233547944722 6.8884833208371274 0.64999999999999991 
+	-12.392702961868537 6.887523889069886 0.64999999999999991 
+	-12.394131732746381 6.8865050742007217 0.64999999999999991 
+	-12.395084421275048 6.8857919432779404 0.64999999999999991 
+	-12.396008061491781 6.8850401292755343 0.64999999999999991 
+	-12.397130294359748 6.8840086712879831 0.64999999999999991 
+	-12.3976269359611 6.8835143322973966 0.64999999999999991 
+	-12.398301637406909 6.8827706262769075 0.64999999999999991 
+	-12.398705257565346 6.8822759077057762 0.64999999999999991 
+	-12.399234282555355 6.8815296852235921 0.64999999999999991 
+	-12.399536500687596 6.8810334399650124 0.64999999999999991 
+	-12.399793158175164 6.8805126932146603 0.64999999999999991 
+	-12.400067398238587 6.8798819128900339 0.64999999999999991 
+	-12.400256260515249 6.8792193085654754 0.64999999999999991 
+	-12.400334453305511 6.8788139551110525 0.64999999999999991 
+	-12.400415170386264 6.8779960960588564 0.64999999999999991 
+	-12.400349211035032 6.8771769547803565 0.64999999999999991 
+	-12.400280552176092 6.8767727512059036 0.64999999999999991 
+	-12.400070260269921 6.8759422717968697 0.64999999999999991 
+	-12.3997386252883 6.8751519095786104 0.64999999999999991 
+	-12.399537648082962 6.8747519370028822 0.64999999999999991 
+	-12.399059066045357 6.8739231336419051 0.64999999999999991 
+	-12.398493668028514 6.8731504864072104 0.64999999999999991 
+	-12.398173226417768 6.8727538077854327 0.64999999999999991 
+	-12.397452790229412 6.8719323967506423 0.64999999999999991 
+	-12.396672413424319 6.8711674059813195 0.64999999999999991 
+	-12.396242826896458 6.8707734098681232 0.64999999999999991 
+	-12.395304960116878 6.869961346770145 0.64999999999999991 
+	-12.394325136312478 6.8692002622234529 0.64999999999999991 
+	-12.393796203802836 6.8688091634892654 0.64999999999999991 
+	-12.392663650691805 6.8680074597617757 0.64999999999999991 
+	-12.391500920221731 6.867250087491521 0.64999999999999991 
+	-12.390207734111343 6.8664394902184753 0.64999999999999991 
+	-12.388888925822826 6.8656709191720342 0.64999999999999991 
+	-12.387551427631692 6.8649359684304478 0.64999999999999991 
+	-12.385294426819641 6.8637301732806293 0.64999999999999991 
+	-12.382996960139462 6.8626021036055214 0.64999999999999991 
+	-12.381400779976097 6.8618540265851156 0.64999999999999991 
+	-12.378031109449328 6.8603370796548528 0.64999999999999991 
+	-12.374621352446361 6.8589123586349547 0.64999999999999991 
+	-12.372829589854422 6.8581878950620698 0.64999999999999991 
+	-12.369142123758522 6.8567391274607541 0.64999999999999991 
+	-12.365429946769122 6.8553548615464104 0.64999999999999991 
+	-12.361598054271848 6.8539583479264099 0.64999999999999991 
+	-12.357748551077112 6.8526109843095568 0.64999999999999991 
+	-12.35388716299833 6.8512985088795624 0.64999999999999991 
+	-12.351944544627358 6.8506463568985616 0.64999999999999991 
+	-12.349999999999998 6.8500000000000005 0.64999999999999991 
+	0 
+	null_surface 
+	null_surface 
+	nullbs 
+	nullbs 
+	-1 
+	-1 
+	I I 
+	0 
+	0 
+	183 0 0.041833743207843811 0.14353516858411394 0.17243387603081081 0.22754492128316231 0.25536719717518147 0.38525781948723742 0.45503924627181291 0.52510418136195414 0.74877845152365374 0.92918656063229077 1.079433264265238 1.1292971288998734 1.1695800144471082 1.2099270470837515 1.2682442596370305 1.5742863502280606 1.6866310694982327 1.7986792678713543 1.9017307237847243 2.0049306918568117 2.076549328526506 2.1481331160806709 2.2487149256689265 2.3143985062857437 2.3802764413994422 2.5128200429525398 2.7062832855049024 2.7532133355497064 2.8002787203027539 2.8950369756538343 3.0548003006831976 3.1729436514098071 3.2119010160651551 3.3910549817825224 3.4823811483469571 3.5739825323230727 4.0258035580917779 4.184264316306372 4.3430943201047834 4.5011706934437949 4.6582682181445128 4.7579978788758099 4.8580327741124973 5.0586654863914777 6.1588894291843346 6.4143076641684038 6.6690977658831914 7.1592911200195264 7.3768680414760182 7.4599733759433029 7.5198757398225071 7.5494406112030763 7.5775878869399529 7.5908824801739954 7.6035448247005561 7.6155103004050639 7.6372299344367987 7.6470332269935772 7.6562763959811928 7.6651831208224177 7.6740748206280367 7.6832769274638535 7.6930211178355856 7.7034429726167266 7.7146018546002919 7.7265021457649237 7.7391102171593849 7.7523665088461362 7.7805026225399825 7.8101688322892073 7.8405280919000058 7.8707085755200108 8.1783961492815038 8.2717532514138092 8.4640333271458434 8.6634969954313945 9.0720196384661591 9.6770302776714274 10.27204824228216 11.614030405437234 12.072128358284395 12.226501457221902 12.379559246156408 12.528921673428306 12.67239342470995 12.858691969275664 13.073857070861942 13.104809852239146 13.119743670406459 13.133792100603296 13.146621183282635 13.152501882986497 13.158008311223753 13.163149914407335 13.167964383409323 13.172527650592702 13.176962194931555 13.181432617899711 13.186094021842106 13.191049968591265 13.196355940661089 13.202030836689106 13.208067809681088 13.221118564975354 13.235192551652649 13.249880673751017 13.26473378544109 13.279293527952756 13.306507433116842 13.331721403772999 13.355784220572342 13.379448373360832 13.464134772593756 13.551531611187333 13.729530735017262 13.90537808140345 14.079537013216489 14.679538121385415 14.929538194326021 15.779542690314015 15.979550401969568 16.129830479658359 16.179638595818414 16.282162655141981 16.385265404894085 16.489081710316853 16.593086482424475 16.909315780370331 17.178782831402973 17.242701824747925 17.306418444402102 17.430914825858057 17.485956273885172 17.541710004902878 17.598258309263997 17.655173765668557 17.791378934481902 17.924885268718675 17.999160012761841 18.074376687328385 18.150452339682509 18.226747731388013 18.43326536600383 18.544733642362715 18.657118266341421 18.838435250707285 18.928524459882372 19.018277546494527 19.088740751385576 19.301211546862096 19.442651766168435 19.505129170078433 19.692884201460544 19.782535803084599 19.873169339781544 19.965307487669964 20.010318002714854 20.053534317621757 20.073494538342434 20.093838371758139 20.11554598253765 20.139721156944429 20.150670694442052 20.156020127348626 20.161090917554159 20.165745346098021 20.169863358611725 20.171693426536855 20.173364603771553 20.174881940584743 20.176263561868332 20.178316135111618 20.180356228842044 20.182588706948525 20.185135410355642 20.188048262704079 20.191336375362894 20.19498504731337 20.198966278344635 20.207778845647582 20.217441604212084 20.227587428675722 
+	
+	-1 
+	none F F 1 F 0 } I I #
+edge $899 -1 -1 $-1 $768 4.5 $771 6.5 $634 $900 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $635 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $635 $901 #
+straight-curve $-1 -1 -1 $-1 10 6.0250000000000004 0.64999999999999991 0 1 0 I I #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $636 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $766 $902 #
+straight-curve $-1 -1 -1 $-1 12 6.0250000000000004 0.64999999999999991 0 -1 0 I I #
+point $-1 -1 -1 $-1 12 4 0.64999999999999991 #
+point $-1 -1 -1 $-1 10 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $646 $641 $-1 $903 forward $125 $-1 #
+edge $904 -1 -1 $-1 $778 0.97499999999999964 $905 2.4749999999999996 $641 $906 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $642 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $642 $907 #
+straight-curve $-1 -1 -1 $-1 8.125 8 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 15.25 8 0.64999999999999991 #
+edge $908 -1 -1 $-1 $909 -2.4749999999999996 $783 -0.97499999999999964 $646 $910 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $647 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $647 $911 #
+straight-curve $-1 -1 -1 $-1 8.125 8 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 17.25 8 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $912 $653 $-1 $913 forward $82 $-1 #
+edge $914 -1 -1 $-1 $789 -3.323401871576773 $915 -1.6263455967290585 $653 $916 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $654 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $787 $917 #
+straight-curve $-1 -1 -1 $-1 6.5 5.4000000000000004 0.64999999999999991 0 1 0 I I #
+point $-1 -1 -1 $-1 6.5 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $659 $918 $-1 $919 forward $82 $-1 #
+edge $920 -1 -1 $-1 $921 -2.0250000000000004 $795 3.4749999999999996 $659 $922 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $660 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $660 $923 #
+straight-curve $-1 -1 -1 $-1 0.75 9.5 0.64999999999999991 1 0 0 I I #
+point $-1 -1 -1 $-1 2.5 9.5 0.64999999999999991 #
+edge $924 -1 -1 $-1 $800 2.75 $804 4.75 $665 $925 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $666 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $798 $926 #
+straight-curve $-1 -1 -1 $-1 -6.5 5.5250000000000004 0.64999999999999991 -0 -1 0 I I #
+point $-1 -1 -1 $-1 -6.5 7.5 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $671 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $671 $927 #
+straight-curve $-1 -1 -1 $-1 -8.5 6.0250000000000004 0.64999999999999991 0 1 0 I I #
+point $-1 -1 -1 $-1 -8.5 9.5 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $928 $676 $-1 $929 forward $57 $-1 #
+edge $930 -1 -1 $-1 $810 0.60000000000000009 $931 3.1000000000000005 $676 $932 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $677 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $677 $933 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $682 $934 $-1 $935 forward $57 $-1 #
+edge $936 -1 -1 $-1 $937 -31.100000000000001 $816 31.100000000000001 $682 $938 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $683 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $683 $939 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $940 $688 $-1 $941 forward $60 $-1 #
+edge $942 -1 -1 $-1 $822 0.60000000000000009 $943 3.1000000000000005 $688 $944 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $689 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $689 $945 #
+straight-curve $-1 -1 -1 $-1 -9.7749999999999986 2.8000000000000003 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -25.700000000000003 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $694 $946 $-1 $947 forward $60 $-1 #
+edge $948 -1 -1 $-1 $949 -31.100000000000001 $828 31.100000000000001 $694 $950 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $695 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $695 $951 #
+straight-curve $-1 -1 -1 $-1 31.100000000000001 0 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 -15.6 0 #
+coedge $-1 -1 -1 $-1 $952 $700 $-1 $953 forward $27 $-1 #
+edge $954 -1 -1 $-1 $834 -15.6 $955 -8.167481155659928 $700 $287 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $701 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $701 $956 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0.14999999999999999 -1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $706 $957 $-1 $958 forward $27 $-1 #
+edge $959 -1 -1 $-1 $960 7.7749999999999986 $840 11.074999999999996 $706 $961 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $707 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $707 $962 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0.14999999999999999 0 -1 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $963 $712 $-1 $964 forward $30 $-1 #
+edge $965 -1 -1 $-1 $846 -11.074999999999996 $966 -7.7749999999999986 $712 $967 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $713 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $713 $968 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $718 $969 $-1 $970 forward $30 $-1 #
+edge $971 -1 -1 $-1 $972 8.1749999999999972 $852 15.6 $718 $305 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $719 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $719 $973 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0 1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $974 $724 $-1 $975 forward $33 $-1 #
+edge $976 -1 -1 $-1 $858 -11.074999999999996 $977 -7.7749999999999986 $724 $978 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $725 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $725 $979 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $730 $980 $-1 $981 forward $33 $-1 #
+edge $982 -1 -1 $-1 $983 8.1749999999999972 $864 15.6 $730 $318 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $731 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $731 $984 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0 1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $985 $736 $-1 $986 forward $36 $-1 #
+edge $987 -1 -1 $-1 $870 -11.074999999999996 $988 -7.7749999999999986 $736 $989 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $737 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $737 $990 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $742 $991 $-1 $992 forward $36 $-1 #
+edge $993 -1 -1 $-1 $994 8.1749999999999972 $876 15.6 $742 $331 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $743 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $743 $995 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0 1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $996 $748 $-1 $997 forward $39 $-1 #
+edge $998 -1 -1 $-1 $882 -11.074999999999996 $999 -7.7749999999999986 $748 $1000 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $749 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $749 $1001 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $754 $1002 $-1 $1003 forward $39 $-1 #
+edge $1004 -1 -1 $-1 $1005 8.1749999999999972 $888 15.6 $754 $344 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $755 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $755 $1006 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0 1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $761 $760 $-1 $1007 forward $497 $-1 #
+edge $1008 -1 -1 $-1 $896 -22.625 $1009 22.625 $760 $1010 forward @7 unknown F #
+edge $1011 -1 -1 $-1 $1012 -22.625 $895 22.625 $761 $1013 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $762 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $762 $1014 #
+vertex $-1 -1 -1 $-1 $762 $1015 #
+straight-curve $-1 -1 -1 $-1 22.625 5.2999999999999998 0.64999999999999991 0 1 0 I I #
+point $-1 -1 -1 $-1 -12.349999999999998 6.8500000000000005 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $766 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 5.5 9.5 0.64999999999999991 1 0 -0 I I #
+point $-1 -1 -1 $-1 10 9.5 0.64999999999999991 #
+point $-1 -1 -1 $-1 12 9.5 0.64999999999999991 #
+edge $1016 -1 -1 $-1 $905 5.375 $909 10.875 $775 $1017 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $776 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $776 $1018 #
+straight-curve $-1 -1 -1 $-1 13.5 7.0250000000000004 0.64999999999999991 0 1 0 I I #
+point $-1 -1 -1 $-1 13.5 8 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $781 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $903 $1019 #
+straight-curve $-1 -1 -1 $-1 19 7.0250000000000004 0.64999999999999991 0 -1 0 I I #
+point $-1 -1 -1 $-1 19 8 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $918 $786 $-1 $1020 forward $82 $-1 #
+edge $1021 -1 -1 $-1 $915 -3.0499999999999998 $1022 -1.4500000000000002 $786 $1023 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $787 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $913 $1024 #
+straight-curve $-1 -1 -1 $-1 4.1500000000000004 4.6500000000000004 0.64999999999999991 -0.70710678118654757 -0.70710678118654746 0 I I #
+point $-1 -1 -1 $-1 6.5 7 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $792 $912 $-1 $1025 forward $82 $-1 #
+edge $1026 -1 -1 $-1 $1027 -1.75 $921 0.25 $792 $1028 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $793 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $793 $1029 #
+straight-curve $-1 -1 -1 $-1 0.5 6.0250000000000004 0.64999999999999991 0 1 0 I I #
+point $-1 -1 -1 $-1 0.5 9.5 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $798 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -3.75 4 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 -6.5 4 0.64999999999999991 #
+point $-1 -1 -1 $-1 -8.5 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $1030 $807 $-1 $1031 forward $57 $-1 #
+edge $1032 -1 -1 $-1 $931 -11.074999999999996 $1033 -7.7749999999999986 $807 $1034 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $808 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $808 $1035 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $813 $1036 $-1 $1037 forward $57 $-1 #
+edge $1038 -1 -1 $-1 $1039 8.1749999999999972 $937 15.6 $813 $423 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $814 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $814 $1040 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0 1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1041 $819 $-1 $1042 forward $60 $-1 #
+edge $1043 -1 -1 $-1 $943 -11.074999999999996 $1044 -7.7749999999999986 $819 $1045 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $820 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $820 $1046 #
+straight-curve $-1 -1 -1 $-1 -19.199999999999996 2.2000000000000002 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 2.8000000000000003 0 #
+coedge $-1 -1 -1 $-1 $825 $1047 $-1 $1048 forward $60 $-1 #
+edge $1049 -1 -1 $-1 $1050 8.1749999999999972 $949 15.6 $825 $436 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $826 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $826 $1051 #
+straight-curve $-1 -1 -1 $-1 0 15.6 0 1 0 0 I I #
+point $-1 -1 -1 $-1 31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1052 $831 $-1 $1053 forward $27 $-1 #
+edge $1054 -1 -1 $-1 $955 -8.167481155659928 $1055 -8.0500000000000007 $831 $287 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $832 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $953 $1056 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $837 $1057 $-1 $1058 forward $27 $-1 #
+edge $1059 -1 -1 $-1 $1060 -4.7125000000000004 $960 -1.9625000000000004 $837 $1061 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $838 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $838 $1062 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0.14999999999999999 -1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1063 $843 $-1 $1064 forward $30 $-1 #
+edge $1065 -1 -1 $-1 $966 1.9625000000000004 $1066 4.7125000000000004 $843 $1067 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $844 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $844 $1068 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $849 $1069 $-1 $1070 forward $30 $-1 #
+edge $1071 -1 -1 $-1 $1072 8.0500000000000007 $972 8.1749999999999972 $849 $305 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $850 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $850 $1073 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1074 $855 $-1 $1075 forward $33 $-1 #
+edge $1076 -1 -1 $-1 $977 1.9625000000000004 $1077 4.7125000000000004 $855 $1078 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $856 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $856 $1079 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $861 $1080 $-1 $1081 forward $33 $-1 #
+edge $1082 -1 -1 $-1 $1083 8.0500000000000007 $983 8.1749999999999972 $861 $318 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $862 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $862 $1084 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1085 $867 $-1 $1086 forward $36 $-1 #
+edge $1087 -1 -1 $-1 $988 1.9625000000000004 $1088 4.7125000000000004 $867 $1089 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $868 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $868 $1090 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $873 $1091 $-1 $1092 forward $36 $-1 #
+edge $1093 -1 -1 $-1 $1094 8.0500000000000007 $994 8.1749999999999972 $873 $331 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $874 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $874 $1095 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1096 $879 $-1 $1097 forward $39 $-1 #
+edge $1098 -1 -1 $-1 $999 1.9625000000000004 $1099 4.7125000000000004 $879 $1100 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $880 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $880 $1101 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $885 $1102 $-1 $1103 forward $39 $-1 #
+edge $1104 -1 -1 $-1 $1105 8.0500000000000007 $1005 8.1749999999999972 $885 $344 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $886 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $886 $1106 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0 #
+edge $1107 -1 -1 $-1 $1009 -10.300000000000001 $1012 10.300000000000001 $891 $1108 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $892 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $892 $1109 #
+straight-curve $-1 -1 -1 $-1 0 15.600000000000001 0.64999999999999991 -1 0 0 I I #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $893 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1007 $1110 #
+straight-curve $-1 -1 -1 $-1 0 -5.0000000000000009 0.64999999999999991 1 0 0 I I #
+point $-1 -1 -1 $-1 22.625 -5.0000000000000009 0.64999999999999991 #
+point $-1 -1 -1 $-1 22.625 15.600000000000001 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $903 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 8.125 9.5 0.64999999999999991 1 0 -0 I I #
+point $-1 -1 -1 $-1 13.5 9.5 0.64999999999999991 #
+point $-1 -1 -1 $-1 19 9.5 0.64999999999999991 #
+edge $1111 -1 -1 $-1 $1022 -1.5556349186104055 $1112 0.141421356237309 $912 $1113 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $913 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1020 $1114 #
+straight-curve $-1 -1 -1 $-1 2.25 5.7999999999999998 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 5.2999999999999998 5.7999999999999998 0.64999999999999991 #
+edge $1115 -1 -1 $-1 $1112 -1.5999999999999996 $1027 1.4000000000000004 $918 $1116 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $919 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $919 $1117 #
+straight-curve $-1 -1 -1 $-1 0.75 4 0.64999999999999991 -1 0 0 I I #
+point $-1 -1 -1 $-1 0.5 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $1118 $928 $-1 $1119 forward $57 $-1 #
+edge $1120 -1 -1 $-1 $1033 1.9625000000000004 $1121 4.7125000000000004 $928 $1122 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $929 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $929 $1123 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $934 $1124 $-1 $1125 forward $57 $-1 #
+edge $1126 -1 -1 $-1 $1127 8.0500000000000007 $1039 8.1749999999999972 $934 $423 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $935 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $935 $1128 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1129 $940 $-1 $1130 forward $60 $-1 #
+edge $1131 -1 -1 $-1 $1044 1.9625000000000004 $1132 4.7125000000000004 $940 $1133 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $941 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $941 $1134 #
+straight-curve $-1 -1 -1 $-1 -8.125 5.3000000000000007 0 1 0 0 I I #
+point $-1 -1 -1 $-1 -19.199999999999996 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $946 $1135 $-1 $1136 forward $60 $-1 #
+edge $1137 -1 -1 $-1 $1138 8.0500000000000007 $1050 8.1749999999999972 $946 $436 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $947 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $947 $1139 #
+point $-1 -1 -1 $-1 -31.100000000000001 15.6 0 #
+coedge $-1 -1 -1 $-1 $1140 $952 $-1 $1141 forward $27 $-1 #
+edge $1142 -1 -1 $-1 $1055 -15.725000000000001 $1143 -14.075000000000003 $952 $1144 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $953 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1053 $1145 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.167481155659928 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $957 $1146 $-1 $1147 forward $27 $-1 #
+edge $1148 -1 -1 $-1 $1149 -12.312499999999996 $1060 -6.2624999999999993 $957 $1150 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $958 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $958 $1151 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0.14999999999999999 0 -1 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1152 $963 $-1 $1153 forward $30 $-1 #
+edge $1154 -1 -1 $-1 $1066 6.2624999999999993 $1155 12.312499999999996 $963 $1156 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $964 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $964 $1157 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $969 $1158 $-1 $1159 forward $30 $-1 #
+edge $1160 -1 -1 $-1 $1161 14.075000000000003 $1072 15.725000000000001 $969 $1162 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $970 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $970 $1163 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $1164 $974 $-1 $1165 forward $33 $-1 #
+edge $1166 -1 -1 $-1 $1077 6.2624999999999993 $1167 12.312499999999996 $974 $1168 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $975 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $975 $1169 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $980 $1170 $-1 $1171 forward $33 $-1 #
+edge $1172 -1 -1 $-1 $1173 14.075000000000003 $1083 15.725000000000001 $980 $1174 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $981 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $981 $1175 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $1176 $985 $-1 $1177 forward $36 $-1 #
+edge $1178 -1 -1 $-1 $1088 6.2624999999999993 $1179 12.312499999999996 $985 $1180 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $986 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $986 $1181 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $991 $1182 $-1 $1183 forward $36 $-1 #
+edge $1184 -1 -1 $-1 $1185 14.075000000000003 $1094 15.725000000000001 $991 $1186 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $992 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $992 $1187 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $1188 $996 $-1 $1189 forward $39 $-1 #
+edge $1190 -1 -1 $-1 $1099 6.2624999999999993 $1191 12.312499999999996 $996 $1192 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $997 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $997 $1193 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $1002 $1194 $-1 $1195 forward $39 $-1 #
+edge $1196 -1 -1 $-1 $1197 14.075000000000003 $1105 15.725000000000001 $1002 $1198 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1003 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1003 $1199 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.1749999999999972 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1007 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.625 5.2999999999999998 0.64999999999999991 0 -1 0 I I #
+point $-1 -1 -1 $-1 -22.625 15.600000000000001 0.64999999999999991 #
+point $-1 -1 -1 $-1 -22.625 -5.0000000000000009 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1020 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1025 $1200 #
+straight-curve $-1 -1 -1 $-1 2.5999999999999996 6.9000000000000004 0.64999999999999991 -0.70710678118654757 0.70710678118654746 0 I I #
+point $-1 -1 -1 $-1 3.7000000000000002 5.7999999999999998 0.64999999999999991 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1025 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 2.5 5.4000000000000004 0.64999999999999991 -0 -1 0 I I #
+point $-1 -1 -1 $-1 2.5 4 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $1201 $1030 $-1 $1202 forward $57 $-1 #
+edge $1203 -1 -1 $-1 $1121 6.2624999999999993 $1204 12.312499999999996 $1030 $1205 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1031 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1031 $1206 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $1036 $1207 $-1 $1208 forward $57 $-1 #
+edge $1209 -1 -1 $-1 $1210 14.075000000000003 $1127 15.725000000000001 $1036 $1211 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1037 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1037 $1212 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $1213 $1041 $-1 $1214 forward $60 $-1 #
+edge $1215 -1 -1 $-1 $1132 6.2624999999999993 $1216 12.312499999999996 $1041 $1217 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1042 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1042 $1218 #
+straight-curve $-1 -1 -1 $-1 -15.899999999999999 3.3375000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 5.3000000000000007 0 #
+coedge $-1 -1 -1 $-1 $1047 $1219 $-1 $1220 forward $60 $-1 #
+edge $1221 -1 -1 $-1 $1222 14.075000000000003 $1138 15.725000000000001 $1047 $1223 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1048 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1048 $1224 #
+point $-1 -1 -1 $-1 -31.100000000000001 8.1749999999999972 0 #
+coedge $-1 -1 -1 $-1 $1225 $1052 $-1 $1226 forward $27 $-1 #
+edge $1227 -1 -1 $-1 $1143 3.1000000000000005 $1228 6.7999999999999998 $1052 $1229 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1053 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1141 $1230 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0.14999999999999999 1 0 -0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1057 $1225 $-1 $1231 forward $27 $-1 #
+edge $1232 -1 -1 $-1 $1233 2.4999999999999991 $1149 5.0000000000000009 $1057 $1234 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1058 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1058 $1235 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0.14999999999999999 1 0 -0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1236 $1063 $-1 $1237 forward $30 $-1 #
+edge $1238 -1 -1 $-1 $1155 -5.0000000000000009 $1239 -2.4999999999999991 $1063 $1240 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1064 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1064 $1241 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1069 $1236 $-1 $1242 forward $30 $-1 #
+edge $1243 -1 -1 $-1 $1244 -6.7999999999999998 $1161 -3.1000000000000005 $1069 $1245 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1070 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1159 $1246 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1247 $1074 $-1 $1248 forward $33 $-1 #
+edge $1249 -1 -1 $-1 $1167 -5.0000000000000009 $1250 -2.4999999999999991 $1074 $1251 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1075 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1075 $1252 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1080 $1247 $-1 $1253 forward $33 $-1 #
+edge $1254 -1 -1 $-1 $1255 -6.7999999999999998 $1173 -3.1000000000000005 $1080 $1256 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1081 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1171 $1257 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1258 $1085 $-1 $1259 forward $36 $-1 #
+edge $1260 -1 -1 $-1 $1179 -5.0000000000000009 $1261 -2.4999999999999991 $1085 $1262 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1086 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1086 $1263 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1091 $1258 $-1 $1264 forward $36 $-1 #
+edge $1265 -1 -1 $-1 $1266 -6.7999999999999998 $1185 -3.1000000000000005 $1091 $1267 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1092 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1183 $1268 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1269 $1096 $-1 $1270 forward $39 $-1 #
+edge $1271 -1 -1 $-1 $1191 -5.0000000000000009 $1272 -2.4999999999999991 $1096 $1273 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1097 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1097 $1274 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1102 $1269 $-1 $1275 forward $39 $-1 #
+edge $1276 -1 -1 $-1 $1277 -6.7999999999999998 $1197 -3.1000000000000005 $1102 $1278 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1103 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1195 $1279 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0 #
+point $-1 -1 -1 $-1 2.5 7 0.64999999999999991 #
+coedge $-1 -1 -1 $-1 $1280 $1118 $-1 $1281 forward $57 $-1 #
+edge $1282 -1 -1 $-1 $1204 -5.0000000000000009 $1283 -2.4999999999999991 $1118 $1284 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1119 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1119 $1285 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1124 $1280 $-1 $1286 forward $57 $-1 #
+edge $1287 -1 -1 $-1 $1288 -6.7999999999999998 $1210 -3.1000000000000005 $1124 $1289 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1208 $1290 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1291 $1129 $-1 $1292 forward $60 $-1 #
+edge $1293 -1 -1 $-1 $1216 -5.0000000000000009 $1294 -2.4999999999999991 $1129 $1295 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1130 $1296 #
+straight-curve $-1 -1 -1 $-1 -9.6374999999999993 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -15.899999999999999 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1135 $1291 $-1 $1297 forward $60 $-1 #
+edge $1298 -1 -1 $-1 $1299 -6.7999999999999998 $1222 -3.1000000000000005 $1135 $1300 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1136 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1220 $1301 #
+straight-curve $-1 -1 -1 $-1 -15.375 8.0500000000000007 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -31.100000000000001 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1146 $1140 $-1 $1302 forward $27 $-1 #
+edge $1303 -1 -1 $-1 $1228 -14.900000000000002 $1304 -8.399999999999995 $1140 $1305 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1141 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1141 $1306 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0.14999999999999999 0 1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0.14999999999999999 #
+edge $1307 -1 -1 $-1 $1308 -11.725 $1233 -10.725 $1146 $1309 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1147 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1147 $1310 #
+straight-curve $-1 -1 -1 $-1 -21.949999999999996 3.0499999999999998 0.14999999999999999 0 1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0.14999999999999999 #
+coedge $-1 -1 -1 $-1 $1158 $1152 $-1 $1311 forward $30 $-1 #
+edge $1312 -1 -1 $-1 $1239 10.725 $1313 11.725 $1152 $1314 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1153 $1315 #
+straight-curve $-1 -1 -1 $-1 -21.950000000000003 3.0499999999999998 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0 #
+edge $1316 -1 -1 $-1 $1317 8.399999999999995 $1244 14.900000000000002 $1158 $1318 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1159 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1159 $1319 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1170 $1164 $-1 $1320 forward $33 $-1 #
+edge $1321 -1 -1 $-1 $1250 10.725 $1322 11.725 $1164 $1323 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1165 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1165 $1324 #
+straight-curve $-1 -1 -1 $-1 -21.950000000000003 3.0499999999999998 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0 #
+edge $1325 -1 -1 $-1 $1326 8.399999999999995 $1255 14.900000000000002 $1170 $1327 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1171 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1171 $1328 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1182 $1176 $-1 $1329 forward $36 $-1 #
+edge $1330 -1 -1 $-1 $1261 10.725 $1331 11.725 $1176 $1332 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1177 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1177 $1333 #
+straight-curve $-1 -1 -1 $-1 -21.950000000000003 3.0499999999999998 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0 #
+edge $1334 -1 -1 $-1 $1335 8.399999999999995 $1266 14.900000000000002 $1182 $1336 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1183 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1183 $1337 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1194 $1188 $-1 $1338 forward $39 $-1 #
+edge $1339 -1 -1 $-1 $1272 10.725 $1340 11.725 $1188 $1341 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1189 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1189 $1342 #
+straight-curve $-1 -1 -1 $-1 -21.950000000000003 3.0499999999999998 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0 #
+edge $1343 -1 -1 $-1 $1344 8.399999999999995 $1277 14.900000000000002 $1194 $1345 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1195 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1195 $1346 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1207 $1201 $-1 $1347 forward $57 $-1 #
+edge $1348 -1 -1 $-1 $1283 10.725 $1349 11.725 $1201 $1350 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1202 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1202 $1351 #
+straight-curve $-1 -1 -1 $-1 -21.950000000000003 3.0499999999999998 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0 #
+edge $1352 -1 -1 $-1 $1353 8.399999999999995 $1288 14.900000000000002 $1207 $1354 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1208 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1208 $1355 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0 #
+coedge $-1 -1 -1 $-1 $1219 $1213 $-1 $1356 forward $60 $-1 #
+edge $1357 -1 -1 $-1 $1294 10.725 $1358 11.725 $1213 $1359 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1214 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1214 $1360 #
+straight-curve $-1 -1 -1 $-1 -21.950000000000003 3.0499999999999998 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999996 8.0500000000000007 0 #
+edge $1361 -1 -1 $-1 $1362 8.399999999999995 $1299 14.900000000000002 $1219 $1363 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1220 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1220 $1364 #
+straight-curve $-1 -1 -1 $-1 -29.450000000000003 4.9500000000000002 0 0 -1 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 8.0500000000000007 0 #
+edge $1365 -1 -1 $-1 $1304 -7.5999999999999996 $1308 -1.3999999999999986 $1225 $1366 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1226 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1302 $1367 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0.14999999999999999 1 0 -0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0.14999999999999999 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1231 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1231 $1368 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0.14999999999999999 1 0 -0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0.14999999999999999 #
+edge $1369 -1 -1 $-1 $1313 1.3999999999999986 $1317 7.5999999999999996 $1236 $1370 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1237 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1237 $1371 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1242 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1311 $1372 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0 #
+edge $1373 -1 -1 $-1 $1322 1.3999999999999986 $1326 7.5999999999999996 $1247 $1374 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1248 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1248 $1375 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1253 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1320 $1376 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0 #
+edge $1377 -1 -1 $-1 $1331 1.3999999999999986 $1335 7.5999999999999996 $1258 $1378 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1259 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1259 $1379 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1264 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1329 $1380 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0 #
+edge $1381 -1 -1 $-1 $1340 1.3999999999999986 $1344 7.5999999999999996 $1269 $1382 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1270 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1270 $1383 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1275 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1338 $1384 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0 #
+edge $1385 -1 -1 $-1 $1349 1.3999999999999986 $1353 7.5999999999999996 $1280 $1386 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1281 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1281 $1387 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1286 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1347 $1388 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0 #
+edge $1389 -1 -1 $-1 $1358 1.3999999999999986 $1362 7.5999999999999996 $1291 $1390 forward @7 unknown F #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1292 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1292 $1391 #
+straight-curve $-1 -1 -1 $-1 -11.225 5.5499999999999989 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -21.949999999999999 5.5499999999999989 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1297 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+vertex $-1 -1 -1 $-1 $1356 $1392 #
+straight-curve $-1 -1 -1 $-1 -14.550000000000001 11.75 0 -1 0 0 I I #
+point $-1 -1 -1 $-1 -29.450000000000003 11.75 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1302 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0.14999999999999999 0 -1 0 I I #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0.14999999999999999 #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0.14999999999999999 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1311 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0 #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1320 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0 #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1329 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0 #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1338 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0 #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1347 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0 #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0 #
+name_attrib-gen-attrib $-1 -1 $-1 $-1 $1356 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @3 eif #
+straight-curve $-1 -1 -1 $-1 -22.949999999999996 4.1500000000000004 0 0 1 -0 I I #
+point $-1 -1 -1 $-1 -22.949999999999999 5.5499999999999989 0 #
+point $-1 -1 -1 $-1 -22.949999999999996 11.75 0 #
+End-of-ACIS-data 

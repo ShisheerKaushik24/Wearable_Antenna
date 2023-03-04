@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Components\Patch:Logo" id="1"/>
+    <Object name="Components\Patch:Logo [lump 2]" id="2">
+      <LineSet points="-12.1000004 6.67499971 -0 -12.1000004 8.05000019 -0 -12.1000004 8.05000019 1.375 -12.1000004 6.67499971 1.375 -10.3000002 6.67499971 -0 -10.3000002 8.05000019 -0 -10.3000002 8.05000019 1.375 -10.3000002 6.67499971 1.375" lines="0 1 1 2 2 3 2 6 3 0 3 7 4 0 4 5 5 1 5 6 6 7 7 4" material="$ConnectedMaterial$"/>
+    </Object>
+    <Object name="Components\Patch:Logo [lump 3]" id="3">
+      <LineSet points="-13.5 5.29999971 -0 -13.5 6.67499971 -0 -13.5 6.67499971 1.375 -13.5 5.29999971 1.375 -12.1000004 5.29999971 -0 -12.1000004 6.67499971 -0 -12.1000004 6.67499971 1.375 -12.1000004 5.29999971 1.375" lines="0 1 1 2 2 3 2 6 3 0 3 7 4 0 4 5 5 1 5 6 6 7 7 4" material="$ConnectedMaterial$"/>
+    </Object>
+    <Object name="Components\gorund:Ground" id="4">
+      <LineSet points="-13.5 5.29999971 -0 -13.5 6.67499971 -0 -13.5 6.67499971 1.375 -13.5 5.29999971 1.375 -12.1000004 5.29999971 -0 -12.1000004 6.67499971 -0 -12.1000004 6.67499971 1.375 -12.1000004 5.29999971 1.375 -12.1000004 8.05000019 -0 -12.1000004 8.05000019 1.375 -10.3000002 6.67499971 -0 -10.3000002 8.05000019 -0 -10.3000002 8.05000019 1.375 -10.3000002 6.67499971 1.375" lines="0 1 1 2 2 3 2 6 3 0 3 7 4 0 4 5 5 1 5 6 5 8 6 7 6 13 7 4 8 9 9 6 9 12 10 5 10 11 11 8 11 12 12 13 13 10" material="$ConnectedMaterial$"/>
+    </Object>
+    <Object name="Components\Denim:Denim" id="5"/>
+    <Object name="Components\component1:bone" id="6"/>
+    <Object name="Components\component1:fat" id="7"/>
+    <Object name="Components\component1:muscle" id="8"/>
+    <Object name="Components\component1:skin" id="9"/>
+    <Object name="Components\connector:vaccum" id="10"/>
+  </Objects>
+  <Materials/>
+  <Groups>
+    <Group name="Group Patch Logo" type="Connectivity" ID="1">
+      <Item name="Components\Patch:Logo" type="solid" id="1"/>
+    </Group>
+    <Group name="Group gorund Ground" type="Connectivity" ID="1">
+      <Item name="Components\Patch:Logo [lump 2]" type="solid" id="2"/>
+      <Item name="Components\Patch:Logo [lump 3]" type="solid" id="3"/>
+      <Item name="Components\gorund:Ground" type="solid" id="4"/>
+    </Group>
+    <Group name="Isolators" type="Isolator" ID="1">
+      <Item name="Components\Denim:Denim" type="solid" id="5"/>
+      <Item name="Components\component1:bone" type="solid" id="6"/>
+      <Item name="Components\component1:fat" type="solid" id="7"/>
+      <Item name="Components\component1:muscle" type="solid" id="8"/>
+      <Item name="Components\component1:skin" type="solid" id="9"/>
+      <Item name="Components\connector:vaccum" type="solid" id="10"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>

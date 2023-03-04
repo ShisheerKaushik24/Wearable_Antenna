@@ -1,0 +1,36 @@
+================================================================================
+SAR Calculation Results
+================================================================================
+
+Powerloss density monitor used: loss (f=2.66) [1] at 2.66 GHz
+Power scaling [W] :             2 Stimulated
+Stimulated Power [W] :          2
+Accepted Power [W] :            1.99454
+Average cell mass [g]:          0.00477952
+Averaging method:               IEEE/IEC 62704-1
+Averaging mass [g]:             1
+
+--------------------------------------------------------------------------------
+Entire Volume:
+
+Min (x,y,z) [mm]:               -57.7588, -59.0263, -59.487
+Max (x,y,z) [mm]:               59.7153, 58.4477, 20.237
+Volume [mm^3]:                  1.1002e+06
+Absorbed power [W]:             7.62011
+Tissue volume [mm^3]:           134064
+Tissue mass [kg]:               0.137115
+Tissue power [W]:               0.0421414
+Average power [W/mm^3]:         3.14339e-07
+Total SAR [W/kg]:               0.307345
+Max. point SAR [W/kg]:          8.50215
+
+Maximum SAR (1g) [W/kg]:       2.39221
+Maximum at (x,y,z) [mm]:       -0.260882, 21.1554, -11.5
+Avg.vol.min (x,y,z) [mm]:      -5.47249, 15.9437, -16.7116
+Avg.vol.max (x,y,z) [mm]:      4.95073, 26.367, -6.28839
+Largest valid cube  [mm]:      10.6557
+Smallest valid cube [mm]:      9.81382
+Avg.Vol.Accuracy     [%]:      0.0001
+
+--------------------------------------------------------------------------------
+Calculation time [s]:       0
