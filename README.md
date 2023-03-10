@@ -9,14 +9,7 @@
   <a href="https://github.com/ShisheerKaushik24/Quantum_projects"><img src="https://github.com/ShisheerKaushik24/Wearable_Antenna/blob/master/asset/featured.png" height="300" width="550" /></a>
 </div>
 
-- **Organization**
-  - [B N M Institute of Technology (BNMIT)](https://www.bnmit.org/)
-- **Student**
-  - [Shisheer S Kaushik](https://shisheerkaushik.netlify.app/)
-- **Mentors**
-  - [Dr. Rekha P](https://www.bnmit.org/electronics-communication-engineering/faculties-ece/dr-rekha-p/), [Prof. Suamthi A](https://www.bnmit.org/electronics-communication-engineering/faculties-ece/sumathi-a/)
-- **Project Details**
-  - [Accepted Proposal](https://raw.githubusercontent.com/ShisheerKaushik24/Certificate-Acheived/blob/master/event/iitcee-2023-conference/Program-final-iitcee-schedule.pdf)
+More details can be found [here:](https://shisheerkaushik.netlify.app/project/wearable-remote-health-monitoring/)
 
 ### Introduction
 
